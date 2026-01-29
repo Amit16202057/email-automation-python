@@ -1,0 +1,32 @@
+name: Email Automation
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # runs every hour
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  send-emails:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run email automation
+        env:
+          EMAIL: ${{ secrets.EMAIL }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        run: |
+          python main.py
