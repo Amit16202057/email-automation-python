@@ -5,29 +5,25 @@ import os
 from datetime import datetime, date
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-from dotenv import load_dotenv
 
-# ---------- LOAD ENV (Python 3.12 safe) ----------
-load_dotenv(dotenv_path=".env")
-
+# ---------- ENV VARIABLES (FROM RENDER) ----------
 EMAIL = os.getenv("EMAIL")
 PASSWORD = os.getenv("EMAIL_PASS")
 SMTP_SERVER = os.getenv("SMTP_SERVER")
-SMTP_PORT = int(os.getenv("SMTP_PORT"))
+SMTP_PORT = int(os.getenv("SMTP_PORT", 587))
 
 CSV_FILE = "emails.csv"
 LOG_FILE = "send_log.txt"
 
+# ---------- SETTINGS ----------
+EMAIL_DELAY = 30      # seconds between emails
+DAILY_LIMIT = 150      # safe limit for Render + SMTP
+
+SUBJECT = "Business Introduction – S.R. Shipping Agency"
+
 # ---------- LOAD HTML TEMPLATE ----------
 with open("email_template.html", "r", encoding="utf-8") as f:
     HTML_TEMPLATE = f.read()
-
-# ---------- SETTINGS (YOU CAN CHANGE THESE) ----------
-CHECK_INTERVAL = 300        # 5 minutes
-EMAIL_DELAY = 30            # 30 seconds between emails
-DAILY_LIMIT = 100           # max emails per day
-
-SUBJECT = "Business Introduction – SR Shipping Group"
 
 # ---------- HELPERS ----------
 def log(message):
@@ -63,48 +59,50 @@ def get_today_sent_count():
 
     return count
 
-# ---------- MAIN LOOP ----------
-print("🚀 Email automation started...")
-log("SYSTEM STARTED")
+# ---------- MAIN (RUN ONCE – RENDER SAFE) ----------
+print("🚀 Render email job started")
+log("RENDER JOB STARTED")
 
-while True:
-    sent_today = get_today_sent_count()
+sent_today = get_today_sent_count()
 
-    if sent_today >= DAILY_LIMIT:
-        print("⛔ Daily limit reached. Sleeping until next check...")
-        time.sleep(CHECK_INTERVAL)
-        continue
+if sent_today >= DAILY_LIMIT:
+    print("⛔ Daily limit already reached")
+    log("DAILY LIMIT REACHED")
+    exit()
 
-    with open(CSV_FILE, newline="", encoding="utf-8") as f:
-        rows = list(csv.DictReader(f))
+with open(CSV_FILE, newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    fieldnames = reader.fieldnames
+    rows = list(reader)
 
-    updated = False
+updated = False
 
-    for row in rows:
-        if row["sent"] == "NO":
-            if sent_today >= DAILY_LIMIT:
-                break
+for row in rows:
+    if row["sent"] == "NO":
+        if sent_today >= DAILY_LIMIT:
+            break
 
-            try:
-                send_email(row["email"], row["name"], row["company"])
-                row["sent"] = "YES"
-                sent_today += 1
+        try:
+            send_email(row["email"], row["name"], row["company"])
+            row["sent"] = "YES"
+            sent_today += 1
 
-                log(f"SENT -> {row['email']}")
-                print(f"✅ Sent to {row['email']}")
+            log(f"SENT -> {row['email']}")
+            print(f"✅ Sent to {row['email']}")
 
-                time.sleep(EMAIL_DELAY)
+            time.sleep(EMAIL_DELAY)
+            updated = True
 
-                updated = True
+        except Exception as e:
+            log(f"ERROR -> {row['email']} -> {e}")
+            print(f"❌ Error sending to {row['email']}")
 
-            except Exception as e:
-                log(f"ERROR -> {row['email']} -> {e}")
-                print(f"❌ Error sending to {row['email']}")
+# ---------- SAVE CSV ----------
+if updated:
+    with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
 
-    if updated:
-        with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=rows[0].keys())
-            writer.writeheader()
-            writer.writerows(rows)
-
-    time.sleep(CHECK_INTERVAL)
+log("RENDER JOB FINISHED")
+print("✅ Render job completed")
