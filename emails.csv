@@ -1,6 +1,1581 @@
 sent,email,name,company
-YES,aghosh16202057@gmail.com,John Doe,ABC Corporation
-YES,amit17202057@gmail.com,Sara Khan,XYZ Trading
-YES,srshipping0@gmail.com,Rahim Ahmed,Delta Solutions
-YES,operation@srshippinggroup.com,Mehedi Hasan,Prime Logistics
-YES,import@srshippinggroup.com,Nusrat Jahan,Green Agro Ltd
+NO,boukhari.m@altisa-dz.com,Boukhari Mohamed,EURL ALTISA
+NO,info-altisa-dz.com,General Manager,EURL ALTISA
+NO,asmaa.zerzi@express-logisticweb.com,Asmaa Zerzi,EURL E L C
+NO,aitzegagh.c@icsdz.com,Management,EURL INTERNATIONAL CONSULTING SERVICE
+NO,lamia@algeriasmartfret.com,Lamia BOUSAADI,ALGERIA SMART FRET
+NO,alpha_transit@yahoo.fr,Slimane KHELOUFI,alpha transit & logistics
+NO,SLIMAN@ALPHALOGISTICS.DZ,Mr Slimane Kheloufi,alpha transit & logistics
+NO,LAMIA@ALPHALOGISTICS.DZ,Lamia AIT LAHOUSSINE,alpha transit & logistics
+NO,au.jctrans@1upcargo.com,Rin Nguyen,1UP CARGO
+NO,nathan@wwcf.com.au,Nathan Llewellyn,WORLDWIDE CUSTOMS & FORWARDING AGENTS PTY LTD
+NO,jason.mesiti@nmtshipping.com,Jason Mesiti,NMT OCEANIA PTY LTD
+NO,jctrans@nmtshipping.com,Jason,NMT OCEANIA PTY LTD
+NO,sales@aioncargo.com.au,Leon Liu,AION CARGO SOLUTIONS AUSTRALIA PTY LTD
+NO,christine@mccworldinternational.com,Christine Zhao,MCC World International Pty Ltd
+NO,murphy@mccworldinternational.com,Murphy Chan,MCC World International Pty Ltd
+NO,operations@primeglobal.com.au,Matt Eddy,Prime Global Logistics Pty Ltd
+NO,peter@ctsaus.biz,Peter Englezos,CTS (Customs & Trade Solutions) Pty Ltd
+NO,ali@ctsaus.biz,Ali Kaddour,CTS (Customs & Trade Solutions) Pty Ltd
+NO,Michaelsaltglobal.com.au,Michael Atkins,Salt Global Logistics Pty Ltd
+NO,roy@g2aus.com,Roy LH Chu,G2 E-Commerce Pty Ltd
+NO,Aloysius.lim@dglgroup.com,Aloysius,DGL Global Logistics Pty Ltd
+NO,dlf.operations@dglgroup.com,Aloysius,DGL Global Logistics Pty Ltd
+NO,scott@genfreight.com.au,Scott Darmenia,Gen Freight Global Logistics Pty Ltd
+NO,jason@acegloballogistics.com,Jason Vuong,ACE Global Logistics
+NO,tara@acegloballogistics.com.au,Tara Tang,ACE Global Logistics
+NO,mark@airmark.com.au,Sr. Mark Gonsalves,Airmark Ocean & Air Logistics
+NO,allan@tslaustralia.com,Allan Hou,TSL Australia
+NO,Daniel@tslaustralia.com,Daniel Poon,TSL Australia
+NO,DANIEL@TSLAUSTRALIA.COM,Daniel Poon,TSL Australia
+NO,EXPORT@TSLAUSTRALIA.COM,Management,TSL Australia
+NO,SALES@TSLAUSTRALIA.COM,Management,TSL Australia
+NO,david@atoshipping.com,David Aherne,Across The Ocean Shipping Pty Ltd
+NO,Bill.Clayden@btl.com.au,Mr Bill Clayden,Bell Total Logistics Pty Ltd
+NO,freight@jjlawson.com.au,Danny Khoury,JJ Lawson Customs & Freight Brokers Pty Ltd
+NO,nick@megafreight.com.au,Nicolas Rump,MEGA FREIGHT PTY. LTD.
+NO,danielle@stelnogroup.com,Danielle Srour,Stelno Logistics Services Pty Ltd
+NO,info@edicustoms.com.au,Tom Ditchburn,EDI International Freight Management
+NO,sales@ktlaustralia.com,Makaela Cramp,KTL Australia Pty Ltd
+NO,logistics@whoopglobal.com,Francis Hitchcock,Whoop Pty Ltd
+NO,info@WHOOPglobal.com,Francis Hitchcock,Whoop Pty Ltd
+NO,tom@3sixtyglobal.com.au,Anastasios (Tom) Kalabalikis,3SIXTY GLOBAL LOGISTICS PTY LTD
+NO,brett.clark@btl.com.au,Brett Clark,Bell Total Logistics
+NO,kane@dysonlogistics.com,Kane Dyson,Dyson Logistics Pty Ltd
+NO,service@frontierunited-au.com,Nicole Luo,Frontier United Pty Ltd
+NO,cheyne@mach1logistics.com.au,Cheyne Warren,MACH 1 Logistics Pty Ltd
+NO,accounts@primeglobal.com.au,Management,PRIME GLOBAL LOGISTICS BRISBANE PTY LTD
+NO,ELODIE@PRIMEGLOBAL.COM.AU,Management,PRIME GLOBAL LOGISTICS BRISBANE PTY LTD
+NO,jack@rsalogistics.com.au,Management,RSA LOGISTICS PTY. LTD.
+NO,kumar@365freight.com.au,KUMAR KARUPPUSAMY,3SIXTY5 FREIGHT AND CUSTOMS PTY LTD
+NO,scott@airwaveaust.com.au,Scott Farquharson,Airwave (Australia) Pty Ltd
+NO,edward@wanlonglogistics.com,Edward Li,Australia Wanlong Logistics Pty Ltd
+NO,nick@freightnetvic.com.au,Nick Kassis,FREIGHTNET INTERNATIONAL (VIC.) PTY. LTD.
+NO,shearty@cosco-ona.com.au,Stephen Hearty,Ocean & Air Cargo Services PTY LIMITED
+NO,christina.teo@santova.com,Christina teo,Santova Logistics Pty Ltd
+NO,elseve@acelogistic.net.au,Elseve Zhou,ACE INTERNATIONAL LOGISTIC MANAGEMENT CO PTY LTD
+NO,serge@casalogistics.com.au,Serge D'cruz,CASA LOGISTICS GROUP PTY LTD
+NO,info@epsglobal.com.au,Peggy,EPS GLOBAL LOGISTICS PTY LTD
+NO,marcus@icsgloballogistics.com,Marcus Ingvorsen,ICS GLOBAL LOGISTICS PTY LTD
+NO,ops@kiandalogistics.com,Rebekah,KIANDA LOGISTICS PTY LTD
+NO,eric@prioritycargo.com.au,Eric Liu,Priority Cargo (Australia) Pty Ltd
+NO,nicholas@prioritycargo.com.au,Nicholas Ong,Priority Cargo (Australia) Pty Ltd
+NO,Sandrik@spherefreight.com.au,Sandrik Prasad,SPHERE FREIGHT LOGISTICS PTY LTD
+NO,aus@strabelogistics.com,Subash Ganesan,Strable Logistics Pty Ltd
+NO,gizem.nalbantoglu@barsan.com,Management,BARSAN GLOBAL LOGISTICS PTY LTD
+NO,vanessa@completeglobal.com.au,Vanessa Richards,COMPLETE GLOBAL SOLUTIONS PTY LTD
+NO,andreas.koenig@8-freight.net,Vadim Potorac,EIGHT FREIGHT PTY LTD
+NO,**gulatitransport@hotmail.com,Sahil Gulati,Gulati Transport PTY Ltd
+NO,stephen@inter-world.com.au,SK Stephen Kalithrakas,INTER WORLD SHIPPING PTY LTD
+NO,info@jjinternatioanallogistics.com,JIE JU,JJ INTERNATIONAL LOGISTICS TRADING PTY LTD
+NO,info@jnzmovers.com,Jatin Chopra,JNZ IMPORTS PTY LTD
+NO,fm@lhpscm.com,Ada Jiao,LHP Supply Chain Management Pty Ltd
+NO,oscar@logikfreight.com,Oscar Yilmaz,LOGIK FREIGHT INTERNATIONAL LIMITED
+NO,alb@swimgds.com,Allan Barker,SWiM GDS PTY LTD
+NO,atisher@wsmdconsult.com,WSMD Group,WSMD Consult Australia Pty Ltd
+NO,cindy@szreallogistics.com,Cindy620,PHOENIX SUPPLY CHAIN PTY LTD
+NO,scott.bettinson@totalgloballogistics.com.au,Scott Bettinson,TOTAL GLOBAL LOGISTICS PTY LTD
+NO,enquiry-au@20cube.com,Management,20CUBE LOGISTICS PTY LTD
+NO,info@primelinebh.com,YAManagement MEHMOOD,Prime Line Shipping
+NO,yasmeen@primelinebh.com,Yasmeen Banu,Prime Line Shipping
+NO,sarath.krishnan@fakhroshipping.com,Sarath Krishnan,FAKHRO SHIPPING AGENCY W.L.L
+NO,meeva.suresh@fakhroshipping.com,Meeva Suresh,FAKHRO SHIPPING AGENCY W.L.L
+NO,joel.baiju@fakhroshipping.com,Joel Baiju,FAKHRO SHIPPING AGENCY W.L.L
+NO,marketing3@fllogistics.com,Mr. afasl Ali,Frontline Logistics Co. W.L.L
+NO,ali.mansoor@maf-bh.com,ALI MANSOOR ALI,MASS ALLIED EXPRESS CARGO
+NO,FREIGHT@MAF-BH.COM,Achu Kardhikeyan,MASS ALLIED EXPRESS CARGO
+NO,padma@gflgroup.co,PADMA NARAYANAN,GFL CARGO
+NO,ACCOUNTSBAH@GFLGROUP.CO,MR. ARUN,GFL CARGO
+NO,<PRICINGBAH@GFLGROUP.CO>,Ms. Nithya,GFL CARGO
+NO,MGRBAH@GFLGROUP.CO,MR. RAJIV,GFL CARGO
+NO,PRICING1BAH@GFLGROUP.CO,Ms. Daya Kurian,GFL CARGO
+NO,operations@eaglemarinebh.com,EAGLE MARINE,Eagle Marine Co. W.L.L.
+NO,HARSHAN@EAGLEMARINEBH.COM,Harshan V.S,Eagle Marine Co. W.L.L.
+NO,BICHU@EAGLEMARINEBH.COM,Bichu Balan,Eagle Marine Co. W.L.L.
+NO,sunil@fastmovelogistics.com,SUNIL LAWRENCE,FAST MOVE LOGISTICS W.L.L
+NO,SALES@FASTMOVELOGISTICS.COM,Sarath Kumar,FAST MOVE LOGISTICS W.L.L
+NO,INFO@FASTMOVELOGISTICS.COM,Maneesha Allwyn,FAST MOVE LOGISTICS W.L.L
+NO,htauseef@flglobally.com,Muhammed Ramiz,F & L LOGISTICS CO.WLL
+NO,bijesh@cargocarebh.com,Bijesh Bhaskaran,CARGO CARE CO.W.L.L.
+NO,Mohamed.Elwakil@iss-gf.com,Mr. Mohamed Elwakil,ISS Global Forwarding Bahrain W.L.L.
+NO,freight@mastexpress.org,Management,MAST EXPRESS CARGO
+NO,thomas@mjtlogistics.net,M.THOMAS VARGHESE,MJT LOGISTICS W.L.L
+NO,bhnmng@samsonfreightbh.com,Lathish Nair,Progressive Samson Freight WLL
+NO,BHBDM@SAMSONFREIGHTBH.COM,ANI.T,Progressive Samson Freight WLL
+NO,INFO@SAMSONFREIGHTBH.COM,Management,Progressive Samson Freight WLL
+NO,riyadh.shaheen@gvs-bh.com,Management,Global Vision Solutions
+NO,safzaal@hazaqlogistics.com,Sardar Afzaal Khan,HAZAQ Global Logistics Services W.L.L
+NO,deepak.menon@kerrylogistics.com,Management,KERRY LOGISTICS BAHRAIN WLL
+NO,Hussain@powercargo.co,Hussain Almahdi,POWER AIR CARGO CO. W.L.L
+NO,abdulla.almalali@powercargo.co,Abdulla Almalali,POWER AIR CARGO CO. W.L.L
+NO,hassan@powercargo.co,Hassan Ali,POWER AIR CARGO CO. W.L.L
+NO,Athulkg@powercargo.co,Athul K M,POWER AIR CARGO CO. W.L.L
+NO,bijo@roadexpressshipping.com,BIJO THOMAS,Road X Express Shipping W.L.L
+NO,csbah@threelineshipping.com,sowrab kaladharan,THREE LINES LOGISTICS W.L.L
+NO,operation.bh@true-bluemovers.com,Niyas,TRUE-BLUE MOVERS W.L.L
+NO,INFO@TRUE-BLUEMOVERS.COM,True Blue,TRUE-BLUE MOVERS W.L.L
+NO,ed@uniquelogistic.org,MOHAMMED NIYAS KOLANTHODI,UNIQUE INTERNATIONAL LOGISTIC CO. W.L.L
+NO,shameem.abdulla@pearlshipping.net,Shameem Abdulla,Pearl Ocean Shipping Services W.L.L.
+NO,muhammad.asif@asyad.com,Muhammad Asif,ASYAD LOGISTICS W.L.L
+NO,rijas@cfsworldwide.com,Mohammed Rijas,CONTAINER FREIGHT STATION W.L.L
+NO,binstine@focuzline.com,Management,FOCUZ LINE SHIPPING W.L.L
+NO,ACCOUNTSBAH@FOCUZLINE.COM,Management,FOCUZ LINE SHIPPING W.L.L
+NO,unni@pslarabia.com,Management,GRANT PARAGON SHIPPING AND LOGISTICS W.L.L
+NO,bah.team@safewayxp.com,Jalal Akbar Mohsen,SAFE WAY EXPRESS CARGO W.L.L
+NO,taha@siltgroup.com,Taha Umer,SHEPHERD INTERNATIONAL TRADING CO W.L.L
+NO,junaid@siltgroup.com,Junaid Umer,SHEPHERD INTERNATIONAL TRADING CO W.L.L
+NO,suresh@trustlogistics.net,Suresh Kumar Kannachazhath Sukumaran,TRUST LOGISTICS W.L.L
+NO,peeyush.purushotham@kanoo.com,Peeyush Purushotham,BAHRAIN INTERNATIONAL CARGO SERVICES
+NO,info.bahrain@berriologistics.com,Shalu Rastogi,BERRIO LOGISTICS SERVICES W.L.L
+NO,flgnetbh@flgshipping.net,Management,FLG SHIPPING & LOGISTICS W.L.L
+NO,alagappan@appleship.ae,Management,GREEN APPLE SHIPPING W.L.L
+NO,cs@jls-me.com,Management,JOLEBA LOGISTICS SOLUTIONS W.L.L
+NO,sales@essarglobal.net,Management,ESSAR GLOBAL W.L.L
+NO,n.hoffmann@ibf-fr.com,Management,Sarl IBFL LOGISTICS ALGERIA
+NO,sea@ibf-fr.com,Management,Sarl IBFL LOGISTICS ALGERIA
+NO,t.martinez@ibf-fr.com,Management,Sarl IBFL LOGISTICS ALGERIA
+NO,jh.lee@ibf-fr.com,Management,Sarl IBFL LOGISTICS ALGERIA
+NO,amsalger@ams.dz,Management,ALGERIAN MARITIME SERVICES
+NO,amsoran@ams.dz,Management,ALGERIAN MARITIME SERVICES
+NO,amsskikda@ams.dz,Management,ALGERIAN MARITIME SERVICES
+NO,amsbejaia@ams.dz,Management,ALGERIAN MARITIME SERVICES
+NO,amsjijel@ams.dz,Management,ALGERIAN MARITIME SERVICES
+NO,contact@ex-shipping.com,Management,EXPRESS SHIPPING COMPANY - SETIF
+NO,sales@ex-shipping.com,Management,EXPRESS SHIPPING COMPANY - SETIF
+NO,transit@unionshipping-dz.com,Management,Union Shipping Company Sarl
+NO,operations@unionshipping-dz.com,Management,Union Shipping Company Sarl
+NO,s.derrar@unionshipping-dz.com,Management,Union Shipping Company Sarl
+NO,djallal.derrar@unionshipping-dz.com,Management,Union Shipping Company Sarl
+NO,Nadia.Mezouar@unionshipping-dz.com,Management,Union Shipping Company Sarl
+NO,wca.interglobal@unionshipping-dz.com,Management,Union Shipping Company Sarl
+NO,mehdi.bouznad@unionshipping-dz.com,Mr. Mehdi BOUZNAD,Union Shipping Company Sarl
+NO,djallal.derrar@unionshipping-dz.com,Mr. Djallal DERRAR,Union Shipping Company Sarl
+NO,s.derrar@unionshipping-dz.com,Mr. Samir DERRAR,Union Shipping Company Sarl
+NO,giorgio.gavardi@savinodelbene.com,Management,Savino Del Bene Algeria
+NO,headquarters@savinodelbene.com,Management,Savino Del Bene Algeria
+NO,accounting@savinodelbene.com,Management,Savino Del Bene Algeria
+NO,portelizabeth@savinodelbene.com,Management,Savino Del Bene Algeria
+NO,gambia@savinodelbene.com,Management,Savino Del Bene Algeria
+NO,seoul@savinodelbene.com,Management,Savino Del Bene Algeria
+NO,algiers@savinodelbene.com,Management,Savino Del Bene Algeria
+NO,contact@ipolcompany.com,Management,IPOL Logistics Algeria
+NO,o.polat@ipolcompany.com,Management,IPOL Logistics Algeria
+NO,m.kus@ipolcompany.com,Management,IPOL Logistics Algeria
+NO,mazizoglu@ipolcompany.com,Management,IPOL Logistics Algeria
+NO,b.zaim@ipolcompany.com,Management,IPOL Logistics Algeria
+NO,rabie.bouziane@ipolcompany.com,Management,IPOL Logistics Algeria
+NO,a.lemmouchi.sk@ipolcompany.com,Management,IPOL Logistics Algeria
+NO,arcon.logistic@yahoo.com,Management,Arcon Logistic sarl
+NO,gsa@altisa-dz.com,Management,ALTISA
+NO,sophie@shamy.eu,Management,Shamy European 2020
+NO,sales.be@expressglobal.com,Mohamed Ali Hakoum,Express Global BV
+NO,salessea@eu.evcargo.com,Management,Fast Forward Freight Antwerpen
+NO,infoanr@gatewaycargo.be,Sylvia de Bruijne,GATEWAY CARGO SYSTEMS BV
+NO,peter@titancargo.eu,Peter Huybrechts,Titan Cargo NV
+NO,KRISTOFG@TITANCARGO.EU,Kristof Goossens,Titan Cargo NV
+NO,KRISTOF@TITANCARGO.EU,Kristof Jansen,Titan Cargo NV
+NO,wesley@titancargo.eu,Wesley Geuens,Titan Cargo NV
+NO,luc@levaco.be,Mr. Luc Huysmans,Levaco N.V.
+NO,SALES@LEVACO.BE,Management,Levaco N.V.
+NO,ellie.liu@magemar.com,ELLIE LIU,MAGEMAR S.A.
+NO,partnerdevelopment@rotra.nl,Bram Borkus,Rotra Air & Ocean NV (Antwerp)
+NO,info@blue-shipping.be,Kim Tirard,Blue Shipping BV
+NO,bjornt@blue-shipping.be,Bjorn Thijs,Blue Shipping BV
+NO,mariac@apa-air.be,Maria,AIR PROMOTIONS AGENCIES NV
+NO,IMPORT@APA-AIR.BE,Management,AIR PROMOTIONS AGENCIES NV
+NO,EXPORT@APA-AIR.BE,Management,AIR PROMOTIONS AGENCIES NV
+NO,pricing.network.north.europe@sealogis.com,Management,Sealogis Freight Forwarding BELGIUM
+NO,f.legrand@agseurope.eu,rederique Legrand,AGS Europe NV
+NO,antwerp@eutraco.eu,Management,EUTRACO NV
+NO,Eddy.verhaegen@interser.org,EDDY VERHAEGEN,INTERSER NV
+NO,sales@basbelgium.com,May,BRUSSELS AIRFREIGHT SERVICES BVBA
+NO,z.vanimmerseel@logicall.com,John Geerlings,Logicall Air & Ocean
+NO,hpo@cgate-logistics.com,Herwig Poppelaars,CGATE LOGISTICS BELGIUM BV
+NO,James@empiretrading.be,James,EMPIRE TRADING SRL
+NO,Zayn@empiretrading.be,Zayn,EMPIRE TRADING SRL
+NO,kenneth@seabow.be,SEABOW NV,SEABOW NV
+NO,kenny@asfnv.be,Management,ANTWERP SHIPPING AND FORWARDING COMPANY NV
+NO,info@ddevlog.com,DANIEL DIAZ,DIRECT DEVELOPED LOGISTICS COMMV
+NO,Sales@ims-shipping.com,Management,International Maritime Shipping NV
+NO,geert@ims-shipping.com,Geert Goossens,International Maritime Shipping NV
+NO,airpricingbnl@barsan.com,Anil Meraci,BARSAN GLOBAL LOGISTICS BE
+NO,oceanpricingbnl@barsan.com,Cihangir Onay,BARSAN GLOBAL LOGISTICS BE
+NO,pricing.be@volantislogistics.com,Fatih Oral,Volantis Logistics
+NO,rachid@alc-cargo.com,Rachid Boucham,ALC (ADVANCED LOGISTICS COMPANY)
+NO,m.traute@aflo.be,Michael TRAUTE,Allround Forwarding & Logistics Nv
+NO,info@antramar.com,Osta Han Van,ANTRAMAR B.V.B.A.
+NO,bru@cobelair.be,Peter Claes,Cobelair Bvba
+NO,info@dorsialogistics.com,Okhan Bayram,Dorsia Logistics
+NO,rbogaert@europeancargologistics.com,obert,European Cargo Logistics BV
+NO,Kevin@ewlogistics.be,Kevin Amelinckx,EW LOGISTICS BVBA
+NO,bulent@firatglobal.com,Bulent Karaman,FIRAT GLOBAL LOG.LTD
+NO,annej@globeflex.be,Anne Jespers,GLOBE FLEX SHIPPING BVBA
+NO,yihui@kennistransport.com,Yihui Hoosemans-Chen,KENNIS LOGISTICS BELGIUM BVBA
+NO,rina.krasniqi@kinay.com,Management,KTL BENELUX BV
+NO,benazza.youssef@kinay.com,Youssef Ben Azza,KTL BENELUX BV
+NO,kevin.veraart@spartaxx.be,Kevin Veraart,Sparta Logistix Nv
+NO,info@beliban.com,Houssam Haidar,Arzehan Bv
+sent,email,Management,company
+NO,ca.jctrans@1upcargo.com,Sarah Karol,1UP CARGO INC.
+NO,info@mantoria.com,Florent Bojarski,Mantoria Inc.
+NO,marketing@1cfs.net,Alice,1ST CHOICE FREIGHT SERVICES (NORTH AMERICA) LTD.
+NO,info@pdon.ca,John,P.DON TRANSFREIGHT INTERNATIONAL CANADA INC.
+NO,van@atalogistics.com,Alicia Peng,ATA GLOBAL LOGISTICS CANADA INC.
+NO,angela.mao@atalogistics.com,Angela,ATA GLOBAL LOGISTICS CANADA INC.
+NO,Jeffd@shipnuera.com,Jeff DeSousa,NU-ERA LOGISTICS INC.
+NO,canada@salotaint.com,Nilu,SALOTA INTERNATIONAL ENTERPRISES LIMITED
+NO,ovini@salotaint.com,Ovini,SALOTA INTERNATIONAL ENTERPRISES LIMITED
+NO,chris@skyferlogistic.com,Chris D'cunha,SKYFER LOGISTIC INC.
+NO,pooja@skyferlogistic.com,Skyfer Logistic Inc,SKYFER LOGISTIC INC.
+NO,pricing@skyferlogistic.com,Management,SKYFER LOGISTIC INC.
+NO,rthornton@traffictech.com,RICHARD THORNTON,TRAFFIC TECH INTERNATIONAL INC.
+NO,rate@valueway.ca,Arthur Xie,Valueway Global Logistics Inc.
+NO,enquiry@sealioncargo.com,Alexandre Vieira,Sealion Cargo Inc.
+NO,frederickleung@gelogistics.ca,Frederick Leung,G.E. Logistics
+NO,edmond@waclogistics.com,Edmond.W.J,WAC International Logistics (Canada) Limited
+NO,ukchang@meridiancargo.ca,UK Chang,MERIDIAN CARGO LTD.
+NO,wayne@everfirstlogistics.com,Wayne Li,Everfirst Global Logistics Inc.
+NO,andy@freightnetwork.ca,ANDY OMAR,Freight Network Inc
+NO,zubiyah@freightnetwork.ca,Anfus Anes,Freight Network Inc
+NO,ACCOUNTS@FREIGHTNETWORK.CA,Management,Freight Network Inc
+NO,OPS@FREIGHTNETWORK.CA,Mahesh,Freight Network Inc
+NO,philip.tso@goldenjet.com,Philip Tso,GOLDEN JET INTERNATIONAL FREIGHT FORWARDERS INC
+NO,PTSO@GOLDENJET.COM,Paul Tso,GOLDEN JET INTERNATIONAL FREIGHT FORWARDERS INC
+NO,johnny.wong@goldenjet.com,Johnny Wong,GOLDEN JET INTERNATIONAL FREIGHT FORWARDERS INC
+NO,lena.mgmt@gmail.com,Daniel Sui,Transnova Logistics Inc
+NO,jake.amso@coleintl.com,Jake Amso,Freight Partners International A Division of Cole International
+NO,FPI.Ground@coleintl.com,Ground Transport,Freight Partners International A Division of Cole International
+NO,FPI.Accounting@coleintl.com,Management,Freight Partners International A Division of Cole International
+NO,FPI.Imports@coleintl.com,Management,Freight Partners International A Division of Cole International
+NO,FPI.OceanExport@coleintl.com,Ocean Exports,Freight Partners International A Division of Cole International
+NO,FPI.Sales@coleintl.com,Management,Freight Partners International A Division of Cole International
+NO,FPI.AirExport@coleintl.com,Management,Freight Partners International A Division of Cole International
+NO,ags.yyz@agslogistics.com,Gina You,Accelerated Global Solutions Inc. (Toronto)
+NO,joycej@apexglobe.com,Joyce Jiang,Apex Supply Chain Management Inc.
+NO,INFO-YYZ@APEXGLOBE.COM,Lydia Wu,Apex Supply Chain Management Inc.
+NO,JCAMPBELL@AURICCARGO.CA,Jessie Campbell,AURIC WORLDWIDE CARGO
+NO,tony@timecargo.ca,Tony,T.I.M.E. Cargo
+NO,MIKE@TIMECARGO.CA,Mike Leventis - Imports,T.I.M.E. Cargo
+NO,maggie@dtsadvance.com,Maggie Xu,DTS ADVANCE LOGISTICS
+NO,INFO@DTSADVANCE.COM,Management,DTS ADVANCE LOGISTICS
+NO,bill@igrlogistics.com,Bill Thapaliya,Inglobal Resources Inc.
+NO,bristi@igrlogistics.com,Bristi Thapaliya,Inglobal Resources Inc.
+NO,SONIKA@IGRLOGISTICS.COM,Sonika Maan,Inglobal Resources Inc.
+NO,canada@bookingunion.com,General Manager,Booking Union Canada Inc.
+NO,FAISAL.HAROON@NEWL.CA,Faisal Haroon,Newell's Express Worldwide Logistics Ltd.
+NO,JAY.NEWELL@NEWL.CA,Jay Newell,Newell's Express Worldwide Logistics Ltd.
+NO,pricing@newlgroup.com,Allen Choi,Newell's Express Worldwide Logistics Ltd.
+NO,alex.newell@newl.ca,Alex Newell,Newell's Express Worldwide Logistics Ltd.
+NO,info@pgass.com,PADMINI PRASAD,PGA SHIPPING SERVICES INC.
+NO,spokharkar@pgass.com,Sourabh Pokharkar,PGA SHIPPING SERVICES INC.
+NO,sujay@pgass.com,Sujay Gawade,PGA SHIPPING SERVICES INC.
+NO,yolanda.zhao@revialogistics.com,Yolanda,Revia Logistics Inc.
+NO,van@sinofreight.com.cn,Alex Su,SINO FREIGHT LTD.
+NO,RGarbin@journeyfreight.com,Mr. Renato Garbin,Journey Freight International Inc.
+NO,tigbenjo@alpatechlogistics.com,Isaac Gbenjo,Alpatech Global Logistics Inc.
+NO,OPERATIONS2@ALPATECHLOGISTICS.COM,SAVIO JOHNSON,Alpatech Global Logistics Inc.
+NO,LOGISTICS@CARTIERSHIPPING.COM,AMANDEEP SINGH,CARTIER RELIABLE SHIPPING LTD.
+NO,jdube@connexologistics.com,Jonathan Dube,CONNEXO GLOBAL LOGISTIC'S INC.
+NO,chandie@csworldcargo.com,C Singh,C.S. WORLD CARGO 2000 LIMITED
+NO,wecare@ewclogistics.com,Dorothy Yang,East West Connect Inc.
+NO,aminda@in-frt.com,Management,INFREIGHT GLOBAL LOGISTICS CO.
+NO,bdm.ca@a2slogistics.com,Management,A2S LOGISTICS INC.
+NO,intl@alliancesli.com,Hicham,Alliance Logistics Solutions Inc.
+NO,dgarcia@dayarlogistics.com,Daianny Garcia,DAYAR LOGISTICS LTD.
+NO,info@kanfreight.com,Kan Freight Solutions Ltd,Kan Freight Solutions Ltd.
+NO,coo@lotemholdings.com,Danuka Liyanapathirana,Lotem Canada Holdings Ltd.
+NO,diane.Managementois@novacontainers.com,iane Managementois,NOVA Containers Ltd
+NO,info@ontariotransway.com,Diljot,ONTARIO TRANSWAY INC.
+NO,ops@revivalogistics.ca,Zena Hady,Reviva Logistics Inc.
+NO,wassim_m@wkcargointl.ca,Wassim Mechken,WK Cargo International Inc.
+NO,international@blfreightsolutions.com,DENIS ISRAFILOV,ARMSTRONG FORWARD LOGISTICS
+NO,onur@cwlog.ca,Onur Bayat,CANADA WORLD LOGISTICS CORPORATION
+NO,CHERRYC.VCR@CTCLOGISTICS.COM,CHERRY CHEN,CTC LOGISTICS （CANADA ）INC.
+NO,jackli@ctclogistics.com,Jack Yong Long Li,CTC LOGISTICS （CANADA ）INC.
+NO,jeremie@delcorp.ca,Jeremie,DELCORP ENTREPRISES INC.
+NO,tim@delcorp.ca,Timothee Delage,DELCORP ENTREPRISES INC.
+NO,cchao@flywingscanada.com,Caroline Chao,FLY WINGS EXPRESS (CANADA) LTD.
+NO,bchao@flywingscanada.com,Billy Chao,FLY WINGS EXPRESS (CANADA) LTD.
+NO,info@harborfaith.com,Grace , General Manager
+NO,chris@loadstarcontainers.com,Chris Montgomery,LOADSTAR ENTERPRISES LTD.
+NO,diego@megacargo.ca,Diego Rondon,Mega cargo
+NO,kboyle@momentumds.com,Kevin Boyle,Momentum Decisive Solutions Canada Inc.
+NO,operationscad@parafreightinc.com,Javed,PARA FREIGHT INC.
+NO,info@srlogistics.ca,RAFI HUSSINY,SILK ROAD ENTERPRISES LTD.
+NO,sj@utradelogistics.com,SHARJEEL JAMAL,UTRADE INC.
+NO,davidwang@allthing-supplychain.com,David,Allthing Supply Chain Management LTD.
+NO,sandi@rubicontrading.co,Sandi Kaila,Rubicon Trading Ltd.
+NO,info@8waysgroup.com,Murugesan,8 Ways Shipping & Logistics Americas Inc.
+NO,INFO@SEAVOYSHIPPING.COM,Management,SeaVoy Shipping and Freight Forwarding Inc.
+NO,support@zuhairs.com,Zuhair Logistics Inc.,Zuhair Logistics Inc.
+NO,sales@zuhairs.com,Kulsoom Zehra,Zuhair Logistics Inc.
+NO,rezapanahi@5continents.ca,Management,5Continents Global Logistics Inc.
+NO,Mitrapanahi@5continents.ca,Management,5Continents Global Logistics Inc.
+NO,pwischnewsky@abx.ca,Management,ABX Logistics (Canada) Inc.
+NO,overseas@alonso-colombia.com,Alonso Forwarding Colombia SAS,Alonso Forwarding Colombia S.A.S.
+NO,ceo@slsholding.com,Benjamin Sosa,SUPPLY LOGISTICS SOLUTIONS LTDA
+NO,josecoronel@alltranscargousa.com,Management,ALL TRANS CARGO COLOMBIA S.A.S
+NO,s.carranza@enjoybusiness.com.co,Management,ENJOY BUSINESS SAS
+NO,m.merchan@enjoybusiness.com.co,Mauricio Merchan,ENJOY BUSINESS SAS
+NO,<S.CARRANZA@ENJOYBUSINESS.COM.CO>,Sandra Carranza,ENJOY BUSINESS SAS
+NO,comercial@brightlogisticsco.com,Management,Bright Logistics SAS
+NO,mlievano@brightlogisticsco.com,General Manager,Bright Logistics SAS
+NO,alfredo.varon@noatumlogistics.com,Alfredo Varon,NOATUM LOGISTICS COLOMBIA INC S.A.S.
+NO,JUANA.MEJIA@NOATUMLOGISTICS.COM,JUANA MEJIA,NOATUM LOGISTICS COLOMBIA INC S.A.S.
+NO,PROCUREMENTCOBOG@NOATUMLOGISTICS.COM,Management,NOATUM LOGISTICS COLOMBIA INC S.A.S.
+NO,I.VERGARA@24KLOGISTICS.COM,Maria Isabel Vergara,24K Global Logistics S.A.S
+NO,lcabeza@sfslogistica.com,LINA ANDREA CABEZA CIFUENTES,SOUTH FLORIDA SOLUTIONS SAS
+NO,xpellice@mundologyca.com,MUNDO LOGYCA SAS,MUNDO LOGYCA SAS
+NO,diana.sarmiento@mundologyca.com,Diana,MUNDO LOGYCA SAS
+NO,comercial@contractlog.com.co,Management,CONTRACT LOGISTICS SAS
+NO,operaciones@contractlog.com.co,Management,CONTRACT LOGISTICS SAS
+NO,overseas@contractlog.com.co,Management,CONTRACT LOGISTICS SAS
+NO,overseas@contractlog.com.co,Paula Andrea Carranza,CONTRACT LOGISTICS SAS
+NO,contacto@timexlogistics.com.co,Management,TIMEX LOGISTICS S.A.S.
+NO,essan.moreno@timexlogistics.com.co,Management,TIMEX LOGISTICS S.A.S.
+NO,aolaya@matchcargo.com.co,Management,MATCH CARGO SAS
+NO,ana.figueroa@seacargo.com,Ana Figueroa,SEA CARGO LOGISTICS OVERSEAS COLOMBIA S.A.S
+NO,FAIR@WORLDCARGOGROUP.COM,Management,WORLD CARGO INTERNATIONAL S.A.S.
+NO,smartinez@cargocorp.co,Management,CARGOCORP COLOMBIA SAS
+NO,david@inmotionlog.com,Juan David Restrepo,In Motion Logistics S.A.S
+NO,MTORO@INMOTIONLOG.COM,Manuela Toro,In Motion Logistics S.A.S
+NO,gerencia.bog@maplogistics.net,Management,MAP LOGISTICS SAS
+NO,M.CARDENAS@WHTL-GLOBAL.COM,Manuel A Cardenas,MC SHIPBROKERS SAS
+NO,esteban.ballesteros@mcshipbrokersllc.com,Esteban Ballesteros,MC SHIPBROKERS SAS
+NO,killiam.bustos@navislogistics.com.co,Management,NAVIS LOGISTICS SOLUTIONS S.A.S. BIC
+NO,gerencia.comercial@navislogistics.com.co,Andres Lombana,NAVIS LOGISTICS SOLUTIONS S.A.S. BIC
+NO,pricing@navislogistics.com.co,Laura Alvarez,NAVIS LOGISTICS SOLUTIONS S.A.S. BIC
+NO,gerencia1@cifworldwide.com.co,Management,CIF WORLDWIDE LOGISTICS S.A.S
+NO,victor.ospina@columbusinternational.net,Management,COLUMBUS INTERNATIONAL FREIGHT FORWARDERS S.A.S
+NO,operaciones@delpa.co,Angie Cuevas,DELPA COLOMBIA S.A.S
+NO,info@enlacemultimodal.com,EULICER SARMIENTO,ENLACE MULTIMODAL LOGISTIC LTDA
+NO,gerencia@globalfreight.com.co,JULIAN MARIN CASTANO,GLOBAL FREIGHT S.A.S
+NO,d.pricing@iwglogistics.com,Management,INTERWORLD FREIGHT SAS
+NO,overseas.co@keylogisticsgroup.com,Management,KEY LOGISTICS SAS
+NO,leonardo.baron@lacargo.co,Oscar Baron,Logistics Advice Cargo S.A.S
+NO,nidia.baron@logitrading.com.co,Nidia Baron Rondon,LOGITRADING SAS
+NO,ANALISTACOMERCIAL@LOGITRADING.COM.CO,Nidia Baron,LOGITRADING SAS
+NO,info@sealogistic.com.co,Alejandro Martinez,Sea Logistic Colombia
+NO,socampo@sli.llc,Management,SLI- SOLUCIONES LOGISTICAS INTEGRADAS S.A.S.
+NO,gerencia.comercial@trasladosinternacionales.com,Andres,TRASLADOS INTERNACIONALES CARGA S.A.S
+NO,EXPORTACIONES.CARGA@TRASLADOSINTERNACIONALES.COM,Maria Isabel Vergara,TRASLADOS INTERNACIONALES CARGA S.A.S
+NO,COMERCIAL@TRASLADOSINTERNACIONALES.COM,Wendie Vergara,TRASLADOS INTERNACIONALES CARGA S.A.S
+NO,monica.ramirez@universalcargo.com.co,Monica Ramirez,UNIVERSAL CARGO COLOMBIA SAS
+NO,hhsales@interfracht.de,Tobias Karrasch,INTERFRACHT Air-Sea-Land Service GmbH
+NO,nadine.klein@co-modality.com,Nadine Klein,Comodality Germany GmbH
+NO,oklitzing@gatewaycargo.de,Oliver Klitzing,Gateway Cargo Systems GmbH
+NO,sthiede@gatewaycargo.de,Steffi Thiede,Gateway Cargo Systems GmbH
+NO,NSCHOENLAU@GATEWAYCARGO.DE,Nico Schonlau,Gateway Cargo Systems GmbH
+NO,t.lu@cargomovers.de,Tiffany Lu,Cargo Movers GmbH
+NO,sales@cargomovers.de,Management,Cargo Movers GmbH
+NO,bre.sales@cargomovers.de,Ocean Pricing,Cargo Movers GmbH
+NO,salesham@eu.evcargo.com,Jasper Dronk,Fast Forward Freight GmbH
+NO,sascha.bellinger@iaa-airfreight.com,John van der Linde,International Airfreight Associates GmbH
+NO,EXPORT.FRA@IAA-AIRFREIGHT.COM,Management,International Airfreight Associates GmbH
+NO,IMPORT.FRA@IAA-AIRFREIGHT.COM,Management,International Airfreight Associates GmbH
+NO,sascha.bellinger@linkinpartner.de,Sascha Bellinger,Linkinpartner Europe GmbH
+NO,pricing@linkinpartner.de,Management,Linkinpartner Europe GmbH
+NO,seapricing@linkinpartner.de,Management,Linkinpartner Europe GmbH
+NO,sven@mairon.de,Sven,MAIRON Cargo System GmbH
+NO,dus-sales@cargomind.com,Management,Cargomind (Germany) GmbH
+NO,DUS-AIR-IMPORT@CARGOMIND.COM,Management,Cargomind (Germany) GmbH
+NO,DUS-AIR-EXPORT@CARGOMIND.COM,Management,Cargomind (Germany) GmbH
+NO,DANIELE.TETTE@CARGOMIND.COM,Daniele Tette,Cargomind (Germany) GmbH
+NO,catherine.qiu@de.dewell.com,Catherine Qiu,DE WELL (GERMANY) GMBH
+NO,radenko.obradovic@milsped.com,Radenko Obradovic,Milsped GMBH
+NO,GER.OCEAN@milsped.com,OCEAN FREIGHT,Milsped GMBH
+NO,GER.AIR@milsped.com,Management,Milsped GMBH
+NO,GER.LOGISTICS@milsped.com,Management,CUSTOMS SERVICE
+NO,sebastian.doerr@pwl.de,Sebastian Doerr,PWL Worldwide Logistics GmbH & Co. KG
+NO,Sales.air@quick-cargo-service.de,Yuanyuan Zhang,QCS-Quick Cargo Service Gmbh
+NO,Abidi.Shahab@evcargo.com,Shahab Abidi,Fast Forward Freight GmbH
+NO,Minh.Truong@evcargo.com,Minh Truong,Fast Forward Freight GmbH
+NO,Dennis.vandemoosdijk@evcargo.com,Dennis van de Moosdijk,Fast Forward Freight GmbH
+NO,n.gaetgens@thordsen.de,Norman Gaetgens,Thordsen Spedition KG (GmbH & Co.)
+NO,j.peloke@thordsen.de,Mr. Jens Peloke,Thordsen Spedition KG (GmbH & Co.)
+NO,R.GAERTNER@THORDSEN.DE,Mr. Rico Gaertner,Thordsen Spedition KG (GmbH & Co.)
+NO,timo.neukamp@crossfreight.de,Timo Neukamp,CROSS FREIGHT Internationale Speditionsges. mbH
+NO,airimport@crossfreight.de,Management,CROSS FREIGHT Internationale Speditionsges. mbH
+NO,airexport@crossfreight.de,Management,CROSS FREIGHT Internationale Speditionsges. mbH
+NO,oceanexport@crossfreight.de,Management,CROSS FREIGHT Internationale Speditionsges. mbH
+NO,oceanimport@crossfreight.de,Management,CROSS FREIGHT Internationale Speditionsges. mbH
+NO,j.fock@amafreight.com,Joerg Fock,AMA Freight Agency Gmbh
+NO,C.WENDT@AMAFREIGHT.COM,Mr. Christian Wendt (airfreights),AMA Freight Agency Gmbh
+NO,SALES@AMAFREIGHT.COM,Management,AMA Freight Agency Gmbh
+NO,import_sales@amafreight.com,Management,AMA Freight Agency Gmbh
+NO,maxim.bulgakow@cr-log.com,Maxim Bulgakow,CR Logistic Germany Gmbh
+NO,JCTrans@lit.de,Michael,L.I.T. Air & Sea GmbH (Hamburg)
+NO,info@sgitrans.com,Mr Shan Kaili,S&G International Transportation Gmbh
+NO,stephanie.stobbe@alx24.de,Stephanie Stobbe,ALX Gmbh
+NO,sla@gcs.de.com,Sebastian Lauber,Global Cargo Service GmbH
+NO,info@beyoglu-spedition.de,Mr. Mehmet BEYOGLU,B I S BEYOGLU INTERNATIONALE SPEDITION GMBH
+NO,Ralf.Behrend@teleo-logistics.com,Ralf Behrend,Teleo-Logistics Gmbh
+NO,JENS.BEHREND@TELEO-LOGISTICS.COM,Jens Behrend,Teleo-Logistics Gmbh
+NO,T.Reblin@agotrans-frankfurt.de,Thorsten Reblin,Agotrans Air Cargo GmbH
+NO,D.REBLIN@AGOTRANS-FRANKFURT.DE,Ha Doan Reblin-Nguyen,Agotrans Air Cargo GmbH
+NO,H.KOLCAK@AGOTRANS-FRANKFURT.DE,Helin Kolcak,Agotrans Air Cargo GmbH
+NO,M.LANGE@AGOTRANS-FRANKFURT.DE,Marion Lange,Agotrans Air Cargo GmbH
+NO,mriedel@grieshaberlog.com,Martin Riedel,GRIESHABER Logistik GmbH
+NO,ABERLAU@GRIESHABERLOG.COM,Mr. Alexander Berlau,GRIESHABER Logistik GmbH
+NO,C.Meyer-Glitza@menzelldoehle.de,Mr. Christoph Meyer-Glitza,Menzell Dohle Logistics Gmbh
+NO,n.basedahl@menzelldoehle.de,Mr. Nils Basedahl,Menzell Dohle Logistics Gmbh
+NO,A.Renck@Menzelldoehle.de,Andreas Renck,Menzell Dohle Logistics Gmbh
+NO,r.westendorf@unicon-logistics.com,Management,UNICON Logistics Gmbh
+NO,czi@cgate-logistics.com,Christian Ziggert,Cgate Logistics GmbH
+NO,SALES@CGATE-LOGISTICS.COM,Management,Cgate Logistics GmbH
+NO,FBL@CGATE-LOGISTICS.COM,Mr. Felix Bleyer,Cgate Logistics GmbH
+NO,BWE@CGATE-LOGISTICS.COM,Mr. Benjamin Wenkens,Cgate Logistics GmbH
+NO,AIR.PRICING.DE@CGATE-LOGISTICS.COM,Management,Cgate Logistics GmbH
+NO,shaw_zoll@dels-spedition.de,xiao zhong,DELS Spedition Gmbh
+NO,sales@hansaspeed.de,Peter Ufer,HANSASPEED Spedition + Logistik GmbH & Co.KG
+NO,sinan.oeztuerk@insa-airandsea.com,Sinan Ozturk,Insa air & sea logistics GmbH
+NO,werner.piller@ecs-online.de,Werner Piller,E C S EUROPEAN CARGO SERVICES GMBH
+NO,jasonkim@hnfriends.com,Jason Kim,H & FRIENDS GTL (DEUTSCHLAND) GMBH
+NO,mhe@cgate-logistics.com,Marc A. Helmig,CGATE Logistics GmbH
+NO,customercare.pao@gruber-logistics.com,Management,GRUBER Logistics (PAO) GmbH
+NO,Jonas.Quittkat@leoproexnortheurope.com,Jonas Quittkat,LeoProex North Europe GmbH
+NO,almasri@xplog.de,Zaher Almasri,XPLOG GmbH
+NO,xing.chen@cargostern.de,Xing Chen,CargoStern GmbH
+NO,sebastian.schiffner@comgistics.de,Management,Comgistics GmbH
+NO,marcel.benecke@cosmopolitan-gl.com,Marcel Benecke,COSMOPOLITAN Global Logistics GmbH
+NO,VIVIANE.BROSE@COSMOPOLITAN-GL.COM,Viviane Brose,COSMOPOLITAN Global Logistics GmbH
+NO,info@firstline-germany.de,Yuanyuan Yan,FIRST LINE GMBH
+NO,Mahbod.m@freightconsol.com,Mahbod Momayezinejad,Freight Consol International GmbH
+NO,TIM.CASPARI@FREIGHTCONSOL.COM,Tim Caspari,Freight Consol International GmbH
+NO,ECKHARD.SANTANA@FREIGHTCONSOL.COM,Eckhard Santana,Freight Consol International GmbH
+NO,m.klappert@freight-it.de,Mario Klappert,freight it logistics GmbH
+NO,yufei.han@globalstreamlogi.com,Yu,Global Stream Logistics GmbH
+NO,bai@kflnetwork.com,BAI CHENGJUN,KFL GmbH
+NO,moch@mgc-log.com,Manuel Moch,MGC LOGISTICS GMBH
+NO,Sebastian.Blanke@pentagonfreight.com,Sebastian Blanke,Pentagon International GmbH
+NO,Jan.Genserich@ecl-air.de,Management,ECL Air GmbH
+NO,frassz@impexgls.de,Byungryong Yoo,IMPEX GLS GmbH-Frankfurt
+NO,air@in-logistics.de,Isa Bulut,IN Logistics GmbH
+NO,huseyin.canakci@noraglobal.com,Mr Huseyin Canakci,Nora Global Logistics GmbH
+NO,abel.platt@plattlog.com,Abel Platt,PLATTLOG GmbH
+NO,jct.service@plattlog.com,Benjamin Wyrobnik,PLATTLOG GmbH
+NO,julija.s@railgateeurope.com,Management,RGE Europe Germany GmbH
+NO,j.speiser@skm-logistics.de,Johannes Speiser,SKM Logistics & Trade GmbH
+NO,jc.de@e-tgl.com,Rachael Son,Taewoong Logistics Germany GmbH
+NO,timo.schrimpf@ts-logistics.eu,Timo Schrimpf,TS Logistics GmbH Sea & Air
+NO,pricing.de@volantislogistics.com,Tarik Ozcan,Volantis Logistics GmBH
+NO,info@8-freight.net,Andreas Konig,8 FREIGHT Germany GmbH
+NO,m.imran@blackstoneshipping.com,BRANCH MANAGER,Blackstone Shipping Germany GmbH
+NO,u.khan@bluebox-systems.com,Usman M. Khan,Blue Box Systems GmbH
+NO,m.schulze@bluebox-systems.com,Martin Schulze,Blue Box Systems GmbH
+NO,sea@german-fs.com,Management,German Freight & Services GmbH
+NO,sales@kuban-logistics.com,Jan-Christoph Kuban,Kuban International Logistics UG
+NO,hamburg@mlm-logistics.com,Kamil Kliem,MLM Logistics GmbH
+NO,tao.jiang@paneu-logistics.com,Tao Jiang,PANEU Logistics GmbH
+NO,sylviaguo@ssl-hamburg.com,Sylvia Guo,SSL Internationale Spedition Gmbh
+NO,SSLSALES@SSL-HAMBURG.COM,Sylvia Guo,SSL Internationale Spedition Gmbh
+NO,jmh@mocean-logistics.com,Jan-Moritz Hoeler,M'OCEAN LOGISTICS GMBH
+NO,khudajkulova@m9logistics.com,Akbota Khudaikulova,M9 Logistics GmbH
+NO,vijay@actionexpress.eu,Vijay,ACTION EXPRESS GMBH
+NO,info@agotrans.de,Wiechert Herr Wolfgang,AGOTRANS LOGISTIK GMBH
+NO,lhe@airmastershipping.de,Lev Henzel,Air Master Shipping Gmbh
+NO,nva@airmastershipping.de,Nicole Valentin,Air Master Shipping Gmbh
+NO,info@aoilogistics.com,Nina Li,AOI Solutions GmbH
+NO,info@artyx.de,Hegde Shashidhar,ARTYX AGENCIES LIMITED
+NO,schleining@blscompany.de,Alexander Schleining,Baltic Logistics Service GmbH
+NO,cs1@aifcompany.com,Jessica Han,Atlantic Integrated Freight Gmbh
+NO,QT.GERMANY1@ATLANTICIF.COM,Germany Pricing Team,Atlantic Integrated Freight Gmbh
+NO,nikiyang.tj@safround.com,Management,SAFROUND LOGISTICS CO LTD.
+NO,overseas01.tj@safround.com,Management,SAFROUND LOGISTICS CO LTD.
+NO,Joel.Dufournet@xpo.com,Joel DUFOURNET,XPO GLOBAL FORWARDING FRANCE
+NO,w.chen@excess.fr,Weina Chen,EXCESS International
+NO,air-pricing@fr.evcargo.com,Management,EV Cargo Global Forwarding
+NO,sea-pricing@fr.evcargo.com,Management,EV Cargo Global Forwarding
+NO,hakim.mediouna@evcargo.com,Hakim MEDIOUNA,EV Cargo Global Forwarding
+NO,marina.remy@fr.evcargo.com,Marina Remy,EV Cargo Global Forwarding
+NO,Magali.ROCCHIA@fr.evcargo.com,EV Cargo Marseille,EV Cargo Global Forwarding
+NO,xifan.sun@cavlog.fr,Xifan SUN,CAVLOG FRANCE
+NO,stephane.touboulic@fr.evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,info@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,andy.humpherson@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,alex.etchells@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,sales@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,sebastian.marlow@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,Rick.Martindale@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,ben.armstrong@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,Simon.Pearson@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,bronwyn.seiler@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,peter.dickerson@evcargo.com,Management,EV CARGO GLOBAL FORWARDING
+NO,zfrata@fci-cie.com,Mr Zakaria Frata,France Cargo International Company SA
+NO,nchesmain@fci-cie.com,Mrs Noellise Chesmain,France Cargo International Company SA
+NO,Importdept@fci-cie.com,Mrs Mariem SAADALY,France Cargo International Company SA
+NO,Exportdept@fci-cie.com,Mr Rodrigo Telles,France Cargo International Company SA
+NO,Faabouzrou@fci-cie.com,Mrs Fatima Abouzrou,France Cargo International Company SA
+NO,exploitation@fci-cie.com,Management,France Cargo International Company SA
+NO,comptabilite@seli-overseas.com,Management,France Cargo International Company SA
+NO,m.farjas@sotramglobal.com,Mr Martial FARJAS,SOTRAM GLOBAL NETWORK
+NO,thierry.poncet@sealogis.com,Thierry poncet,Sealogis Freight Forwarding HO
+NO,PRICING.NETWORK.AIR.FRANCE@SEALOGIS.COM,Management,Sealogis Freight Forwarding HO
+NO,PRICING.NETWORK.SEA.FRANCE@SEALOGIS.COM,Management,Sealogis Freight Forwarding HO
+NO,info@easymove-intl.com,Bashir G.,EASY MOVE
+NO,admin@islcargo.com,Kayash Luximon,ISL CARGO
+NO,cs-cdg@dls-sas.fr,Management,DOUANE LOGISTIQUE ET SERVICES (DLS SAS)
+NO,info@dls-sas.fr,Management,DOUANE LOGISTIQUE ET SERVICES (DLS SAS)
+NO,sofiane@dls-sas.fr,DLS SAS,DOUANE LOGISTIQUE ET SERVICES (DLS SAS)
+NO,gregory.faine@dls-sas.fr,Gregory,DOUANE LOGISTIQUE ET SERVICES (DLS SAS)
+NO,jean.ferrier@logisticsplus.com,Mr. Jean FERRIER,LOGISTICS PLUS FRANCE INC
+NO,dominique.bonastre@mcsforward.com,Management,MULTIMODAL CARGO SOLUTION
+NO,SALES@MCSFORWARD.COM,Management,MULTIMODAL CARGO SOLUTION
+NO,ling.yu@uif-fr.com,YU LING,UNITEX LOGISTIC FRANCE LTD
+NO,zeimernicolas@nzlogistics.fr,Nicolas Zeimer,NZ LOGISTICS
+NO,nsuoceanfreight@prolinair.com,Pascale Bastide,PROLINAIR
+NO,francelys.regulus@gmail.com,France Lys REGULUS,FTL SERVICES
+NO,nadia.bekhdadi@airmasters-cargo.com,Nadia Bekhdadi,AIR MASTERS CARGO
+NO,ocean-salesdept@airmasters-cargo.com,Valerie Mathan,AIR MASTERS CARGO
+NO,m.adaimi@airmasters-cargo.com,Michel ADAIMI,AIR MASTERS CARGO
+NO,airexport-salesdept@airmasters-cargo.com,Drayton D'Souza,AIR MASTERS CARGO
+NO,airimport-salesdept@airmasters-cargo.com,Management,AIR MASTERS CARGO
+NO,air-exportops@airmasters-cargo.com,Management,AIR MASTERS CARGO
+NO,air-importops@airmasters-cargo.com,Management,AIR MASTERS CARGO
+NO,ocean-ops@airmasters-cargo.com,Management,AIR MASTERS CARGO
+NO,contact@all-fs.com,ABDERAHIM EL AROUI,ALL FREIGHT SOLUTIONS
+sent,email,Management,company
+NO,boukhari.m@altisa-dz.com,Boukhari Mohamed,EURL ALTISA
+NO,info@altisa-dz.com,General Manager,EURL ALTISA
+NO,pricing@msglobal.com.my,Hiroyuki Shiono,MS Global Freight Solution Sdn. Bhd.
+NO,inquiry@msglobal.com.my,Management,MS Global Freight Solution Sdn. Bhd.
+NO,info@tmishipping.com,Management,TMI CONTAINER LINE SDN BHD.
+NO,thomas@tmishipping.com,Mr. Thomas Mok,TMI CONTAINER LINE SDN BHD.
+NO,jayson@tmishipping.com,Mr. Jayson Ng,TMI CONTAINER LINE SDN BHD.
+NO,sales@tmishipping.com,Management,TMI CONTAINER LINE SDN BHD.
+NO,export@tmishipping.com,Management,TMI CONTAINER LINE SDN BHD.
+NO,import@tmishipping.com,Management,TMI CONTAINER LINE SDN BHD.
+NO,accounts@tmishipping.com,Management,TMI CONTAINER LINE SDN BHD.
+NO,mktg@tmishipping.com,Henry Tee,TMI CONTAINER LINE SDN BHD.
+NO,ellen.loo@kc-intl.com,Ellen Loo,KC INTERNATIONAL LOGISTICS SDN BHD
+NO,Pantos_KUL@lxpantos.com,KEN YONG,LX PANTOS MALAYSIA SDN. BHD.
+NO,inquiry@mattroy.com.my,Alex,Mattroy Logistics (Malaysia) Sdn Bhd
+NO,ALEX@MATTROY.COM.MY,Alex Chow,Mattroy Logistics (Malaysia) Sdn Bhd
+NO,CYLIM@MATTROY.COM.MY,CY Lim,Mattroy Logistics (Malaysia) Sdn Bhd
+NO,georgeteng@kaizologistics.com,George Teng,KAIZO LOGISTICS (M) SDN. BHD.
+NO,systems@vanguardssecurity.com,Management,VANGUARD EXPRESS SDN. BHD.
+NO,sales@vanguardexpress.com.my,ATIQAH SHIRAT,VANGUARD EXPRESS SDN. BHD.
+NO,info.ca@a2slogistics.com,Management,A2S LOGISTICS SDN. BHD.
+NO,network@a2slogistics.com,Management,A2S LOGISTICS SDN. BHD.
+NO,a2skul@a2slogistics.com,Management,A2S LOGISTICS SDN. BHD.
+NO,a2ssin@a2slogistics.com,Management,A2S LOGISTICS SDN. BHD.
+NO,csu.mgr@a2slogistics.com,Vinoth,A2S LOGISTICS SDN. BHD.
+NO,General@awardscargo.com.my,JENNIFER TEH,Awards Cargo Agency Sdn. Bhd.
+NO,sales.my@e-tgl.com,SONG BONGHYUN,Taewoong Global Logistics Sdn. Bhd.
+NO,suyin@borderail.com,Gan Suyin,Borderail Logistics Sdn. Bhd.
+NO,cs@naadashipping.com,USHABAAI A/P GANESAN,NAADA SHIPPING AND FREIGHT FORWARDERS SDN. BHD.
+NO,proinquiry@proshipping.com.my,SoonMing Kor,PRO SHIPPING (M) SDN. BHD.
+NO,jaytoh@pwtsin.com,Jay Toh,PWT GLOBAL LOGISTICS SDN. BHD.
+NO,iven.teoh@timescf.com,Iven Teoh,TIMES CARGO FREIGHT (M) SDN BHD
+NO,info@mhm-express.com,Donald Lim,MHM EXPRESS SDN. BHD.
+NO,thanvir@galleonshipping.com.my,MOHAMED THANVIR NIZATH,GALLEON SHIPPING AGENCIES SDN. BHD.
+NO,jaytoh@pwtsin.com,Jay Toh,PWT GLOBAL LOGISTICS SDN. BHD.
+NO,alvin@wpclogistics.com.my,Alvin Tang,WPC Logistics (M) Sdn Bhd
+NO,GRACELIM@WPCLOGISTICS.COM.MY,GRACE LIM,WPC Logistics (M) Sdn Bhd
+NO,vanessa@lgcresources.com,Vanessa Yuen,LGC Resources Sdn Bhd
+NO,cskul@silkexp.com.my,CHERRY LAU,SILK EXPRESS FREIGHT (M) S/B
+NO,sales@c-continent.com,Ms Kiki Soon,Central Continent Sdn Bhd
+NO,quotes@c-continent.com,Management,Central Continent Sdn Bhd
+NO,huiyen@kgwlogistics.com,Hui Yen,KGW Logistics (M) Sdn Bhd.
+NO,RATES@KGWLOGISTICS.COM,Hui Yen,KGW Logistics (M) Sdn Bhd.
+NO,jenny@nys.com.my,Ng Jen Ny,NYS INTERNATIONAL FREIGHT SDN BHD
+NO,khor@wwfreight.com.my,Khor JK,WORLDWISE FREIGHT (M) SDN BHD
+NO,liew@asiaevolution.com.my,TRISTAN LIEW,ASIA EVOLUTION (M) SDN BHD
+NO,danny.ng@eka-maritime.com,Danny Ng Hong Wei,EKA Maritime (M) Sdn Bhd
+NO,cs.my2@elanlogistics.my,Charlotte,Elan International Sdn Bhd
+NO,CSGROUP@ELANLOGISTICS.MY,Ms. Agness Tan,Elan International Sdn Bhd
+NO,jane@jstlog.com,JANE LEE,JUST SAVE TIME LOGISTICS SDN BHD
+NO,phyllis@pclfreight.com,Phyllis Chia,PCL GLOBAL FREIGHT SDN BHD
+NO,louis@pclfreight.com,Louis Teh,PCL GLOBAL FREIGHT SDN BHD
+NO,audrey.kiing@agashipping.com.my,Audrey Kiing Min Ming,Aga Shipping Agencies Sdn Bhd
+NO,kimberly.wong@agashipping.com.my,Kimberly Wong,Aga Shipping Agencies Sdn Bhd
+NO,anita.tang@agashipping.com.my,Anita Tang,Aga Shipping Agencies Sdn Bhd
+NO,steven.liew@iclsb.com,Steven Liew,ICL GLOBAL TRANSPORT SDN BHD
+NO,yasmin.othman@iclsb.com,Yasmin Binti Othman,ICL GLOBAL TRANSPORT SDN BHD
+NO,anis@iclsb.com,Ms Anis,ICL GLOBAL TRANSPORT SDN BHD
+NO,sales@panmalayan.com.my,Kelly Tung,PAN MALAYAN LOGISTICS SDN. BHD.
+NO,pmsaa@live.com.my,Management,PAN MALAYAN LOGISTICS SDN. BHD.
+NO,pdorai.kul@agxlogistics.com,Dato' P.Dorai /Jay Sielan,AGX Logistics (M) Sdn Bhd
+NO,josh@frfreight.com,JOSH HO,FR FREIGHT SERVICES (M) SDN BHD
+NO,vivian@limphangboofwdg.com,Vivian,LYH International Sdn Bhd
+NO,sales@megadexcargo.com,MS JO,MEGA DEX CARGO SDN. BHD.
+NO,edward.kian@panda4u.com,Edward Kian,Panda Logistics (Malaysia) Sdn. Bhd.
+NO,PKGBIZ@PBCARGO.COM.MY,STACY TIA,PUBLIC CARGO SERVICES SDN BHD.
+NO,cs@pbcargo.com.my,BAIZURA AMIRRUDDIN ZURA,PUBLIC CARGO SERVICES SDN BHD.
+NO,bala@smyfreight.com,BALASUBRAMANIAM,SMY FREIGHT & LOGISTICS (M) SDN BHD
+NO,INFO@SMYFREIGHT.COM,Latha,SMY FREIGHT & LOGISTICS (M) SDN BHD
+NO,faridah@ssc-shipping.com.my,Faridah Mustafa,SSC SHIPPING SDN BHD
+NO,ameelia@ssc-shipping.com.my,NUR AMEELIA,SSC SHIPPING SDN BHD
+NO,lester@ssc-shipping.com.my,LESTER,SSC SHIPPING SDN BHD
+NO,dianna@ssc-shipping.com.my,Dianna,SSC SHIPPING SDN BHD
+NO,jasmine.chang@ctonet.com,Jasmine Chang,CTO GLOBAL LOGISTICS (M) SDN BHD
+NO,info.pen@ctonet.com,Management,CTO GLOBAL LOGISTICS (M) SDN BHD
+NO,info.malaysia@ctonet.com,Management,CTO GLOBAL LOGISTICS (M) SDN BHD
+NO,aezzat.asnan@ctonet.com,Ahmad Aezzat Asnan,CTO GLOBAL LOGISTICS (M) SDN BHD
+NO,eric@globaltracklogs.com,ERIC NG,GLOBAL TRACK LINES (M) SDN BHD
+NO,SALES@GLOBALTRACKLOGS.COM,MS. WAWA,GLOBAL TRACK LINES (M) SDN BHD
+NO,OPERATION@GLOBALTRACKLOGS.COM,AIDA,GLOBAL TRACK LINES (M) SDN BHD
+NO,tasha.lee@gnfgroup.net,TASHA LEE,GNF GROUP SDN. BHD.
+NO,kelvin-lee@jctcargo.com.my,Kelvin Lee,JCT Cargo Sdn Bhd
+NO,kmaniraj@hotmail.com,Mr.K.Maniraj,KMR FREIGHT & LOGISTIC SDN BHD
+NO,INFO_KMRLOGISTICS@KMR.ORG.MY,Mr.K.Maniraj,KMR FREIGHT & LOGISTIC SDN BHD
+NO,SELVI@KMR.ORG.MY,Ms.TAMIL SELVI,KMR FREIGHT & LOGISTIC SDN BHD
+NO,jaslyn@msvintl.com,Jaslyn,MSV International SDN BHD
+NO,kwang@worldocean.com.my,Eric Ang,World Ocean Logistics Sdn Bhd
+NO,jctrans@worldocean.com.my,Serena Soh,World Ocean Logistics Sdn Bhd
+NO,salesgroup.my@cimcwetrans.ltd,LEO CHEN,CIMC WETRANS MALAYSIA SDN. BHD.
+NO,jamie.chong@cjcentury.com,Jamie Chong,CJ Century Logistics Sdn. Bhd.
+NO,andyong@dce.com.my,Ong Chen Fon,DCE TOTAL LOGISTICS (M) SDN BHD
+NO,JINNHEN@DCE.COM.MY,Jinn Hen,DCE TOTAL LOGISTICS (M) SDN BHD
+NO,LOUISTAN@DCE.COM.MY,LOUIS TAN,DCE TOTAL LOGISTICS (M) SDN BHD
+NO,yeo@ucoslog.com.my,Yeo Zhi Jian,Expal Logistics Sdn Bhd
+NO,jack.my@hogoglobal.com,Jack Yu,HOGO SHIPPING(MALAYSIA)SDN BHD
+NO,KELLY.MY@HOGOGLOBAL.COM,KELLY TANG,HOGO SHIPPING(MALAYSIA)SDN BHD
+NO,vincent@integritylogistics.com.my,Vincent Lee,INTEGRITY FREIGHT SDN BHD
+NO,sales@luxlogistics.com.my,YONG JEI LIM,LUX LOGISTICS SDN. BHD.
+NO,mysales@maloneshipping.com,Malone,MALONE SHIPPING SDN BHD
+NO,cs@polestarlines.com,AJMAL HAMEED,POLESTAR SHIPPING & LOGISTICS SDN. BHD.
+NO,txmy@txlogi.com,May,TRANS XPRESS LOGISTICS SDN. BHD.
+NO,info@ylfs.com.my,SHELDON LEE JIN SONG,YL FREIGHT SERVICES SDN. BHD.
+NO,DION.YONG@YLFS.COM.MY,Dion Yong,YL FREIGHT SERVICES SDN. BHD.
+NO,JINSONG.LEE@YLFS.COM.MY,SHELDON LEE JIN SONG,YL FREIGHT SERVICES SDN. BHD.
+NO,jimmy.yap@ydfreight.com,Jimmy Yap,YD FREIGHT SDN. BHD.
+NO,sales.sbw@agashipping.com.my,Management,Aga Shipping Agencies Sdn Bhd
+NO,leonaldo-wong.sbw@agashipping.com.my,Leonaldo Wong,Aga Shipping Agencies Sdn Bhd
+NO,edwin-tea.sbw@agalogistics.com.my,Edwin Tea,Aga Shipping Agencies Sdn Bhd
+NO,louis@asiastreet.com.my,Louis Wong,Asia Street Global Logistics Sdn. Bhd
+NO,g.sajith@clarionshipping.com,Sajithkumar,CLARION INTERNATIONAL FREIGHT & LOGISTICS SDN.BHD.
+NO,marcwong@gtl.com.my,Marc Wong,Global Total Logistics & Shipping Sdn Bhd
+NO,LIONG@GTL.COM.MY,BLeng Liong,Global Total Logistics & Shipping Sdn Bhd
+NO,sales@globeriderlog.com,FRANCIS VOON CHEE WUI,GLOBE RIDER LOGISTICS SDN.BHD.
+NO,selvaraj@glorycargoasia.com,Selvaraj Vijayan,GLORY CARGO ASIA SDN.BHD.
+NO,wei_@integra.com.my,TEH KHANG WEI,INTEGRA FORWARDING SDN. BHD.
+NO,min@lpblogistic.com,Mindy Lim,LPB Logistic Sdn Bhd
+NO,EXPORT@LPBLOGISTIC.COM,Mr. Nick Keng,LPB Logistic Sdn Bhd
+NO,FREIGHT@LPBLOGISTIC.COM,Ms. Yi Shian,LPB Logistic Sdn Bhd
+NO,SALES@LPBLOGISTIC.COM,Mr. John Lim,LPB Logistic Sdn Bhd
+NO,CUSTOMERSERVICE@LPBLOGISTIC.COM,Ms. Celine,LPB Logistic Sdn Bhd
+NO,inquiries@palline.com.my,CARMEN WONG,PAL LINE MALAYSIA SDN. BHD.
+NO,winson.pen@regime.com.my,WINSON CHAN,Regime Freight & Logistics Sdn. Bhd.
+NO,twf@transwest.com.my,Elliot Gan,TRANSWEST FREIGHT SDN. BHD.
+NO,info@advancechamp.com,CEICILYN,ADVANCE CHAMPION EXPRESS SDN BHD
+NO,sales@alpines.com.my,ANDY,ALPINES FREIGHT FORWARDERS SDN. BHD.
+NO,cs@alpines.com.my,SHUQI,ALPINES FREIGHT FORWARDERS SDN. BHD.
+NO,jctrans@ctxlog.com,Amra Zareer,CTX LOGISTICS SDN. BHD.
+NO,yong@iglworldwide.com,Vince Yong,IGL Worldwide Sdn. Bhd.
+NO,business.my@infreight-logistics.com,Shaun,INFREIGHT LOGISTICS SDN. BHD.
+NO,zachary@in-freight.com,Zachary,INFREIGHT LOGISTICS SDN. BHD.
+NO,infreight.sg@in-freight.com,Management,INFREIGHT LOGISTICS SDN. BHD.
+NO,hello@cargo2u.com,SIANG LEE,INTERNATIONAL GLOBAL LOGISTICS (M) SDN. BHD.
+NO,ken.wai@magicallogistic-my.com,Management,MAGICAL LOGISTICS（M）SDN. BHD.
+NO,info@minelog.com.my,Management,MINE LOGISTICS SDN. BHD.
+NO,jctrans@minelog.com.my,Management,MINE LOGISTICS SDN. BHD.
+NO,general@pglines.com,Ms Josephine,PLATINIUM TOTAL LOGISTICS SDN.BHD.
+NO,info@tbilogistics.com.my,Mr Jun,TBI LOGISTICS SDN. BHD.
+NO,enquiry@tnsglobal.com.my,Management,TNS Global Logistics Sdn. Bhd.
+NO,weiting.yoong@tnsglobal.com.my,Yoong Wei Ting,TNS Global Logistics Sdn. Bhd.
+NO,kahchew@trancy.com.my,Lee Kah Chew,TRANCY LOGISTICS (MALAYSIA) SDN. BHD.
+NO,enquiry@tt-group.com.my,Management,TT FREIGHT GROUP SDN. BHD.
+NO,SARAH.SR@TT-GROUP.COM.MY,SARAH SHEVAUN,TT FREIGHT GROUP SDN. BHD.
+NO,MELVIN@TT-GROUP.COM.MY,Melvin,TT FREIGHT GROUP SDN. BHD.
+NO,wfh@worldfreighthub.com,Jeff Khor,WORLD FREIGHT HUB SDN. BHD.
+NO,JEFF@WORLDFREIGHTHUB.COM,Jeff Khor,WORLD FREIGHT HUB SDN. BHD.
+NO,kellytan@frslogistics.com.my,Kelly Tan,FRS FREIGHT LOGISTICS (M) SDN. BHD.
+NO,salessupport@hansonfreight.com.my,Elaine Lee & Cristal Chai,HANSON GLOBAL FREIGHT SDN. BHD.
+NO,management@hansonfreight.com.my,Darren Khoo,HANSON GLOBAL FREIGHT SDN. BHD.
+NO,uj.tan@hansonfreight.com.my,UJ Tan,HANSON GLOBAL FREIGHT SDN. BHD.
+NO,darren@hansonfreight.com.my,Darren,HANSON GLOBAL FREIGHT SDN. BHD.
+NO,bernard@hansonfreight.com.my,Bernard Ang,HANSON GLOBAL FREIGHT SDN. BHD.
+NO,cs@hansonfreight.com.my,Bernard Low,HANSON GLOBAL FREIGHT SDN. BHD.
+NO,Noorini.Ilais@kn.com.my,Noorini Ilais,KONTENA NASIONAL GLOBAL LOGISTICS SDN. BHD.
+NO,info@mglglobal.com.my,RYAN LEE,MGL GLOBAL LOGISTICS SDN. BHD.
+NO,ernest@mglglobal.com.my,Ernest Teoh,MGL GLOBAL LOGISTICS SDN. BHD.
+NO,jagdeep@ssclines.com,Jagdeep Singh,SEVEN SEAS LINES SDN. BHD.
+NO,dkor@ssforwarding.com.my,Daniel Kor,SS Forwarding (M) Sdn. Bhd.
+NO,cs@asianalogistics.biz,Management,ASIANA LOGISTICS SDN. BHD
+NO,opnkul@asianalogistics.biz,Management,ASIANA LOGISTICS SDN. BHD
+NO,zack@asianalogistics.biz,ZACK (GENERAL MANAGER),ASIANA LOGISTICS SDN. BHD
+NO,victor.chew@besforwdfreight.com.my,VICTOR CHEW,BESFORWD FREIGHT SDN. BHD.
+NO,Sales@canvasglobal-log.com,Jackson Lim,CANVAS GLOBAL LOGISTICS SDN. BHD.
+NO,aidan@eglgroup.com.my,Aidan Aw Yong Ren Yong,ECO GLOBAL LOGISTICS SDN. BHD.
+NO,peter@eglgroup.com.my,Peter Loo Bee Kiat,ECO GLOBAL LOGISTICS SDN. BHD.
+NO,vivek@gtzprolog.com,VIVEK ANAND,GTZ PRO LOGISTICS SDN. BHD.
+NO,jason@pkmaritime.com,PK Maritime,PK MARITIME SDN. BHD.
+NO,stcoffice@stcseaway.com,MEDELINE TEW,STC SEAWAY LOGISTICS SDN. BHD.
+NO,tlwong@topfast.com.my,Sylvia Wong,TOP FAST LOGISTICS SDN. BHD.
+NO,srisangar@wmglobal.com.my,Sri Sangar,Warisan Maju Global Sdn. Bhd.
+NO,jason@gmlgroup.com.my,Jason Lee,Globemate Logistics Sdn. Bhd.
+NO,jennifer@alienlogistics.com,Jennifer Leong,Alien Logistics Sdn Bhd
+NO,salesmy@apssoutheastasia.com,Patrick Ong,APS Worldwide Sdn Bhd
+NO,eujin@armadagroup.com.my,Eu Jin,Armada International (M) Sdn Bhd
+NO,lily.tan@asiagroup.sg,Lily Tan,Asia Logistics (M) Sdn Bhd
+NO,ooisk@aslm.biz,OOI SENG KONG,ASL PERFECTION LOGISTICS (M) SDN BHD
+NO,mkt@brilliantstarlogistics.com,San San,BRILLIANT STAR LOGISTICS SDN. BHD.
+NO,akb.basri@gmail.com,Basri Abd Karim,BRS GLOBAL FREIGHT SDN BHD
+NO,njs@bruhat.co,Naveen Jebagheeth,Bruhat Logistics PTE LTD
+NO,mng.pklg@cpishipping.com,SEGAR KRIS,CARGO PLAN INTERNATIONAL SDN BHD
+NO,victor@cetworld.com.my,Victor Chng,CET Worldwide Logistics Sdn.Bhd.
+NO,cusd-my@chukong.com,ABRAM D,CHU KONG LOGISTICS (MALAYSIA) SDN.BHD.
+NO,hamid@skslines.com,Muhammad Hamid,CLEAR FREIGHT SHIPPING LINES SDN BHD
+NO,ctelinks@ctegroup.com.my,Yong Shiau Wei,CTE LOGISTICS SDN BHD
+NO,cwlee@worldgate.com.my,Lee Cwen Wei,Worldgate Express Services Sdn Bhd
+NO,salescs@uniqtrans.com.my,Samuel Jebamani,Uniqtrans Logistics Sdn Bhd
+NO,tangy324@gmail.com,Geoffrey,TG Jaya Logistics
+NO,anirbandas@ecuworldwide.com,Anirban Das,ECU WORLDWIDE (KENYA) LIMITED
+NO,ochieng@benfifreightkenya.co.ke,BEN OCHIENG,BENFI GLOBAL LOGISTICS
+NO,jbo@genuinefreight.com,JOHN BOSCO ORIGA,GENUINE FREIGHT SERVICES LTD
+NO,amomanyi@alliad.com,Amomanyi,ALLIAD LOGISTICS LIMITED
+NO,CWANGUI@ALLIAD.COM,Chritine Njongoro,ALLIAD LOGISTICS LIMITED
+NO,ekasangania@alliad.com,Eric Kasangania,ALLIAD LOGISTICS LIMITED
+NO,PNZIOKA@ALLIAD.COM,Philister NZIOKA,ALLIAD LOGISTICS LIMITED
+NO,mary@quicktaskfreight.com,Mary Nyaboke,Quick Task Freight Kenya Limited (Mombasa)
+NO,info@indexcargologistics.com,Derrick Lucas,INDEX CARGO LOGISTICS LTD
+NO,info@transhaul-logistics.com,geoffrey mutua,Transhaul Logistics Limited
+NO,JEFFERSON.MUTUA@TRANSHAUL-LOGISTICS.COM,JEFFERSON,Transhaul Logistics Limited
+NO,GEOFFREY.WAMBUA@TRANSHAUL-LOGISTICS.COM,Geoffrey Wambua,Transhaul Logistics Limited
+NO,katamdouglas@triumphlogisticske.com,Douglas Kipchirchir,TRIUMPH GLOBAL LOGISTICS LIMITED
+NO,TRIUMPHLOGISTICSKE@GMAIL.COM,Management,TRIUMPH GLOBAL LOGISTICS LIMITED
+NO,info@3wglogi.com,ALLAN,3WG LOGISTICS LIMITED
+NO,ALLAN@3WGLOGI.COM,Allan,3WG LOGISTICS LIMITED
+NO,john@3wglogi.com,John,3WG LOGISTICS LIMITED
+NO,kevin@alcordia.co.ke,Kevin,ALCORDIA LOGISTICS LIMITED
+NO,laurine@alcordia.co.ke,Laurine,ALCORDIA LOGISTICS LIMITED
+NO,rates@globetrotlogisticsltd.com,Esther Michael,GLOBETROT LOGISTICS LIMITED
+NO,ckaloki@logisticslink.co.ke,CHRISANT MULILI KALOKI,LOGISTICS LINK LTD
+NO,ceo@saltrans.net,Ashish,Saltrans Kenya Limited
+NO,sales@urgentcargo.com,Management,Urgent Cargo Logistics Ltd
+NO,info@adamant.co.ke,Agnes Kithiia Gichia,ADAMANT LOGISTICS SOLUTIONS LIMITED
+NO,info@andmanngroup.com,Management,ANDMANN GROUP LIMITED
+NO,sales@arion-eastafrica.com,KAWINO DUNCAN,ARION FREIGHT SYSTEMS LTD
+NO,info@bwosi.com,ROGERS SULTANI BWOSI,BWOSI INVESTMENTS LIMITED
+NO,info@landbridgefreight.com,francis kinyua,LAND BRIDGE FREIGHTERS LIMITED
+NO,kenya@magellanlogisticsafrica.com,ARUN GOPALAKRISHNAN ACHARY,MAGELLAN LOGISTICS KENYA LTD
+NO,tom.asila@duplexforwarders.com,Thomas Asila Olenyo,DUPLEX FORWARDERS LIMITED
+NO,Sales@elmforwarders.com,Management,ELM FORWARDERS LIMITED
+NO,freight@freightwaysglobal.com,Jane,Freightways Global Solutions Ltd
+NO,info@freightwaysglobal.com,Hellen Syokou,Freightways Global Solutions Ltd
+NO,cs@freightwaysglobal.com,Carol Mwangi,Freightways Global Solutions Ltd
+NO,kentop@interscopekenya.co.ke,Constant V. MUKUDI,INTERSCOPE KENYA LIMITED
+NO,joseph@lineareastafrica.net,Joseph Chege,LINEAR EAST AFRICA AGENCY LIMITED
+NO,imports@lineareastafrica.net,Ghareeb Mazrui,LINEAR EAST AFRICA AGENCY LIMITED
+NO,irene@lineareastafrica.net,Irene Mbugua,LINEAR EAST AFRICA AGENCY LIMITED
+NO,tom@texmonlogistics.co.ke,Tom Muok,TEXMON LOGISTICS LIMITED
+NO,sales@kfshipping.com,Kasyoki Johana Mutungwa,K&F SHIPPING AND AGENCY COMPANY LIMITED
+NO,info@abaexlogistics.com,FREDRICK WERA,ABA Express Logistics Limited
+NO,info@adilltd.co.ke,IBRAHIM ADAN,ADIL TRANSPORTERS LIMITED
+NO,info@freight-direct.com,Management,Direct Freight
+NO,info@gcelogistic.com,Management,GULF COAST ENTERPRISE FOR LOGISTIC SERVICES
+NO,bahij@amrahtower.com,Mr. Bahij AL Mana`a,Amrah Tower For Logistics Company
+NO,heba@amrahtower.com,Ms. Heba AL Jaafreh,Amrah Tower For Logistics Company
+NO,fadiosta@amrahtower.com,Mr. Fadi AL Osta,Amrah Tower For Logistics Company
+NO,finance@amrahtower.com,Mr. Murad AL Hajaj,Amrah Tower For Logistics Company
+NO,taghreed@amrahtower.com,Mrs. Taghreed Jamil,Amrah Tower For Logistics Company
+NO,sales@amrahtower.com,Mr. Abdullh Al-Fayoumi,Amrah Tower For Logistics Company
+NO,hala@amrahtower.com,Mrs. Hala Abu Tarboush,Amrah Tower For Logistics Company
+NO,airfreight@amrahtower.com,Ms. Ghaid Saleem,Amrah Tower For Logistics Company
+NO,airport@amrahtower.com,Mr. Ahmed Al Abaasi,Amrah Tower For Logistics Company
+NO,operations@amrahtower.com,Mr. Ahmed Jaber,Amrah Tower For Logistics Company
+NO,info@ideal-logs.com,Management,Ideal Logistics Services Ltd.
+NO,info@rightway-logistics.com,Management,Right way logistics
+NO,info@astralogisticsjo.com,Management,Astra Logistics Co.
+NO,ayman@astralogisticsjo.com,Ayman Abudayah,Astra Logistics Co.
+NO,Mohammad@astralogisticsjo.com,Mohammad Al-Jalamneh,Astra Logistics Co.
+NO,Accounts@astralogisticsjo.com,Ezzdin Mohammed,Astra Logistics Co.
+NO,Musab@astralogisticsjo.com,Musab Khader,Astra Logistics Co.
+NO,fares@astralogisticsjo.com,Moh'd Abo Fares,Astra Logistics Co.
+NO,tls2@tanafosjo.com,Management,Tanafos Logistics Services
+NO,corporate@bluebirdshipping.com,Management,BLUE BIRD SHIPPING DEVELOPMENT AND MARKETING
+NO,info@MaestroLGX.com,Management,Maestro for Logistics Services
+NO,operations@cargofleetlogistics.com,Management,Cargo Fleet Logistics
+NO,info@ez-freight.jo,Management,Easy Freight Shipping Services
+NO,sales@kenz-jo.com,Management,Kenz Middle East For Shipping and Navigation Services
+NO,info@kenz-jo.com,Management,Kenz Middle East For Shipping and Navigation Services
+NO,customerservice@pioneercargo-jo.com,Management,Pioneer Cargo Company
+NO,steve@apexintl.co.jp,Steve Ko,Apex International Inc
+NO,tyo@familyexp.com,Leo,FEG LOGISTICS Co.
+NO,rk@interfracht.jp,Management,Interfracht Japan K.K.
+NO,sales.tyo@kc-intl.com,Muhammad,KC International Japan Co.
+NO,Pantos_NRT@lxpantos.com,Management,LX PANTOS JAPAN INC.
+NO,ssxheadoffice-jc@ssx.seino.co.jp,Management,Seino Super Express Co.
+NO,seiko.aoyama@truth-logistics.co.jp,Mr. AOYAMA SEIKO,TRUTH LOGISTICS CORPORATION
+NO,biz@truth-logistics.co.jp,Will Brewer,TRUTH LOGISTICS CORPORATION
+NO,tian@tenjinlogitem.jp,Mr Tian,Tenjin Logitem Co.
+NO,frank@besttrans.co.jp,Frank Lee,Best Trans & Trading Hybrid Co.
+NO,info@seishinshipping.jp,MR .AOSHIMA KEN,SEISHIN SHIPPING CO.
+NO,GROUP-ENQUIRY@SILK.COM.SG,Group Enquiry,SILK EXPRESS FREIGHT JAPAN LTD
+NO,intl-support@silk.com.sg,Management,SILK EXPRESS FREIGHT JAPAN LTD
+NO,jctrans@knotglobal-hd.com,Taka (Takamitsu Matsuzawa),Knot Global Holdings Co.
+NO,info@sanyo-logi.com,Fujii Masaru,SANYO Logistics Inc.
+NO,sindy.chen@asahi-log.com,Sindy Chen,ASAHI LOGISTICS CO.
+NO,import@sun-cs.jp,Management,Suncolor Shipping Co.
+NO,ttp-sally@ttpartners.co.jp,Sally Jo,T&T PARTNERS CORPORATION
+NO,info@frontier-united.com,Tomo Nakajima,Frontier United Co.
+NO,yurix@santsuosa.com,Yuri Hata,SANTSU INTERNATIONAL LOGISTICS CO.
+NO,qyb@santsuosa.com,Mr.QIN,SANTSU INTERNATIONAL LOGISTICS CO.
+NO,tsuruta@tradevoxjapan.co.jp,Naoki Tsuruta,Tradevox Japan Co.
+NO,JAPAN@NCSLINE.COM,Yujin Lee,NCS LINE JAPAN CO.
+NO,oversea@shintoyogate.com,Shin Toyo Gate Co., Ltd.
+NO,ANH@STY-GATE.COM,ETSUHIDE SATO,Shin Toyo Gate Co.
+NO,import@smj.sc,Mr.Pan/Mr.Quang,SMJ CO.
+NO,txjp@txlogi.com,Daisy,TX JAPAN CO. 
+NO,nakayama-h@fumimasa-int-trade.com,Hirogane Nakayama,Fumimasa Logistics Co.
+NO,agent@shinseiki-kaiun.co.jp,ZHEN LIU,NEW CENTURY SHIPPING CO.
+NO,nippon.kh-logistics@outlook.com,Stephen Lin,NIPPON K&H LOGISTICS CO.
+NO,KHLOGI12@KH-LOGISTICS.CO.JP,TONY MASAKATA HAYASHI,NIPPON K&H LOGISTICS CO.
+NO,inoue@tokyosanyu.co.jp,Toru Inoue,Tokyo Sanyu Shipping Co.
+NO,KIMOTO@TOKYOSANYU.CO.JP,Yoshihiro Kimoto,Tokyo Sanyu Shipping Co.
+NO,crystal@forward-jp.com,Crystal,Forward co.
+NO,CUSTOMER@FORWARD-JP.COM,Crystal,Forward co.
+NO,kp@freightconsol.com,KP,FREIGHT CONSOL INTERNATIONAL JAPAN CORPORATION
+NO,y-kang@kokusaiexpress.com,Mr. Kang,KOKUSAI EXPRESS CO.
+NO,s-fan@kokusaiexpress.com,Fan ShengHua,KOKUSAI EXPRESS CO.
+NO,lpjforwarding@logisticsplus.com,LPJ Forwarding,Logistics Plus Japan K.K
+NO,inquiry_jct@marubeni-logi.com,Marubeni Inquiry,Marubeni Logistics Corporation
+NO,hbwoo@newavelogi.com,Hanbok Woo,NEWAVE LOGI CO.
+NO,tglim@newavelogi.com,TAEGOO LIM,NEWAVE LOGI CO.
+NO,bing@radiantdelivers.jp,Bo Bing Yu,Radiant Global Logistics Tokyo
+NO,higashijima@seiwa-intl.com,KAORI HIGASHIJIMA,SEIWA INTERNATIONAL INC
+NO,SALES@SEIWA-INTL.COM,Management,SEIWA INTERNATIONAL INC
+NO,cs.japan@aifcompany.com,Japan Pricing Team,A.I.F. COMPANY
+NO,hirano@nml-tky.co.jp,Hirano,Nippon Marine Logistics
+NO,kiyomizu@sollogi.com,SALLIE KIYOMIZU,SOL LOGI CO.
+NO,mert.atici@barsan.com,ATICI Mert,BARSAN GLOBAL LOGISTIC CO
+NO,info@buryu.com,KENGO TAKEDA,BURYU INC.
+NO,booking@jglogi.com,BASHIR SHIRAZ,JGLOGI CO.
+NO,sami@jglogi.com,Sami,JGLOGI CO.
+NO,iod-scj@scorejp.com,Management,Score Japan Co.
+NO,sssfwdg@sevenseas.co.jp,YUICHIRO ONDA,Seven Seas Shipping Co.
+NO,info@freightadvisor.co.jp,Mina,FREIGHT ADVISOR CO.
+NO,sales@aikou-corp.jp,Issei Kobayashi,Aikou Logistics Corporation.
+NO,hiroko.tanaka@anchor-lg.com,Hiroko Tanaka,Anchor Logistics LLC
+NO,samsupplychainhero@gmail.com,Mr Joldan Belfort,Araminta Oakmont Global Logistic
+NO,azlanawan01@outlook.com,Azlan Awan,Be Forward Japan
+NO,acc.tyo@bnxlogistics.com,HANNAH LEE,BNX SHIPPING JAPAN
+NO,pte_cs@yahoo.co.jp,Management,China Courier Service Co.
+NO,enquiries@cnlogistics.co.jp,Takayuki Mori,CN Logistics (Japan) Limited
+NO,fujiwara@domilinks.co.jp,SUSUMU FUJIWARA,DOMILINKS SUSUMU FUJIWARA
+NO,ldy0001@jctrans.net,lingling,japan ling ling company
+NO,info@kilimo-logistics.jp,Mr. Mitsu,Kilimo Logistics LLC
+NO,yangjie@jctrans.net,Management,New International Freight Forwarding Co.
+NO,mario.aliberti@lesaminternational.it,Mario Aliberti,LESAM INTERNATIONAL GROUP S.r.l.
+NO,stefania.iori@lesaminternational.it,Stefania Iori,LESAM INTERNATIONAL GROUP S.r.l.
+NO,sales@sebigroup.com,assimo Bonicalzi,Sebi S.R.L.
+NO,Michele.bonicalzi@sebigroup.com,Michele Bonicalzi,Sebi S.R.L.
+NO,exportsales@sebigroup.com,Elena Venturin,Sebi S.R.L.
+NO,davide@monava.it,Davide Zanaschi,Monava Trasporti Internazionali S.P.A.
+NO,gnd@monava.it,Chiara,Monava Trasporti Internazionali S.P.A.
+NO,ACCOUNT@MONAVA.IT,Alma Likaj,Monava Trasporti Internazionali S.P.A.
+NO,marco.bertolli@milsped.com,Marco Bertolli,Milsped Italia S.R.L.
+NO,IT.OCEAN@milsped.com,OCEAN FREIGHT,Milsped Italia S.R.L.
+NO,IT.AIR@milsped.com,Management,Milsped Italia S.R.L.
+NO,IT.LOGISTICS@milsped.com,Management, CUSTOMS SERVICE
+NO,emanuela.ruggeri@evcargo.com,Emanuela Ruggeri,EV CARGO GLOBAL FORWARDING S.R.L.
+NO,s.cipriani@italtransportoverseas.it,Sabrina Cipriani,ITALTRANSPORT S.R.L.
+NO,a.peri@italtransportoverseas.it,Andrea Peri,ITALTRANSPORT S.R.L.
+NO,gianluca.rossi@marexport.it,GIAN LUCA ROSSI,MAREXPORT GLOBAL FORWARDING S.R.L.
+NO,iessi@mleurope.com,Cesare Gabriele Iessi,MITSUBISHI LOGISTICS EUROPE B.V.
+NO,ancona@mleurope.com,Luca Ancona,MITSUBISHI LOGISTICS EUROPE B.V.
+NO,papa@mleurope.com,Alessandro Papa,MITSUBISHI LOGISTICS EUROPE B.V.
+NO,danilo.barbieri@zustambrosetti.com,Danilo Barbieri,ZUST AMBROSETTI S.P.A.
+NO,filippa.nicosia@zustambrosetti.com,Filippa Nicosia,ZUST AMBROSETTI S.P.A.
+NO,daniela.ceriani@zustambrosetti.com,Daniela Ceriani,ZUST AMBROSETTI S.P.A.
+NO,ylenia.cadoni@zustambrosetti.com,Ylenia Cadoni,ZUST AMBROSETTI S.P.A.
+NO,cristian.paderni@zustambrosetti.com,Cristian Paderni,ZUST AMBROSETTI S.P.A.
+NO,SIMONE.VALTOLINA@CMAGOA.IT,SIMONE VALTOLINA,COMPAGNIA MERCI AEREE S.R.L.
+NO,QUOTE@CMAGOA.IT,Mr. Christian Debilio,COMPAGNIA MERCI AEREE S.R.L.
+NO,m.pirro@daxelitaly.it,Marco Pirro,DAXEL ITALY SRL
+NO,CARGO@ELLEDISPEDIZIONI.IT,Roberto Carella,ELLEDI SPA
+NO,a.leonardo@sleuropeagency.it,LEONARDO ASANZA,SL Europe Agency SRL
+NO,EXPORT@SLEUROPEAGENCY.IT,Management,SL Europe Agency SRL
+NO,ACCOUNTING@SLEUROPEAGENCY.IT,Management,SL Europe Agency SRL
+NO,IMPORT@SLEUROPEAGENCY.IT,Management,SL Europe Agency SRL
+NO,carlo.pavone@timeshipping.it,carlo pavone,TIME SHIPPING Srl
+NO,EXPORT@TIMESHIPPING.IT,Mario Peritto,TIME SHIPPING Srl
+NO,pricing@ooforwarding.com,Management,O&O FORWARDING SRL
+NO,lorenzo@tieffe-group.it,Lorenzo Faoro,TIEFFE GROUP SRL
+NO,operation@furlog.com,Paolo Malaguti,Furlog Srl
+NO,luca@gallianosrl.it,Luca Galliano,Galliano Srl
+NO,c.asia@golden-cube.it,Asia Cervellini,Golden Ground Globe
+NO,giulio@gsasrl.eu,Giulio POSSENTE,GSA S.R.L
+NO,POSSENTEV@GSASRL.EU,Vincenzo POSSENTE,GSA S.R.L
+NO,VIANOV@GSASRL.EU,Management,GSA S.R.L
+NO,SERRAV@GSASRL.EU,Management,GSA S.R.L
+NO,aspizzuoco@pslgroup.it,Andrea Spizzuoco,PSL - Shipping & Logistics
+NO,OPERATIONS@PSLGROUP.IT,Ciro Giardino,PSL - Shipping & Logistics
+NO,SALES@PSLGROUP.IT,Luca Battaglia,PSL - Shipping & Logistics
+NO,rita.gollino@samer.com,Rita Gollino,Samer & Co. Shipping S.p.A.
+NO,m.novellati@satcargo.com,Marco Novellati,SAT CARGO SRL
+NO,F.CALVENZANI@SATCARGO.COM,Fabrizio Calvenzani,SAT CARGO SRL
+NO,J.NOVELLATI@SATCARGO.COM,Jose Novellati,SAT CARGO SRL
+NO,castagna@asterlog.com,Claudio Castagna,ASTER LOGISTICS S.R.L.
+NO,marco.bertuzzi@intertransport.it,Marco Bertuzzi,INTERTRANSPORT S.R.L
+NO,LUCA.ISOLA@INTERTRANSPORT.IT,Luca Isola,INTERTRANSPORT S.R.L
+NO,NETWORK@INTERTRANSPORT.IT,Luca Isola,INTERTRANSPORT S.R.L
+NO,marianna.morstabilini@moveitspedizioni.it,Marianna Morstabilini,MOVE IT S.R.L.
+NO,luca.bruno@p2psrl.com,Luca Bruno,P2P SRL
+NO,SALES@P2PSRL.COM,MARTINA FRANCHINI,P2P SRL
+NO,stefano.adani@thesolutionsrl.com,STEFANO ADANI,THE SOLUTION.COM (Genova)
+NO,mike@trustcargo.it,Mike Marnati,TRUST CARGO S.R.L.
+NO,jenny.pallotta@aas-shipping.com,GIAN LUCA,AA&S SRL
+NO,overseasdevpt@airoceancargo.com,Filomena,AIR OCEAN CARGO S.P.A.
+NO,marco.larocca@aironelog.com,Marco Larocca,AIRONE LOG S.R.L.
+NO,QT.ITALY1@ATLANTICIF.COM,Management,Atlantic Integrated Freight S.r.l.
+NO,andrea.rezzano@deltagf.com,andreabk,Delta Global Freightways SRL
+NO,francescag@gianesini.com,Francesca Gianesini,GIANESINI ERMINIO SRL
+NO,davidea@gianesini.com,Davide Antonini,GIANESINI ERMINIO SRL
+NO,giannis@gianesini.com,Gianni Specogna,GIANESINI ERMINIO SRL
+NO,andreasumma@globalcargo.it,Andrea Summa,Global Cargo S.R.L.
+NO,QUOTE@GLOBALCARGO.IT,Andrea Summa,Global Cargo S.R.L.
+NO,alessio.falco@iqcargoservice.com,ALESSIO FALCO,IQ CARGO SERVICES S.R.L.
+NO,info@ge.iscotrans.it,Benvenuti Paolo,ISCOTRANS S.P.A.
+NO,cssiie@siiesiie.com,Ambra,Societa Italiana Import Export Srl
+NO,fabiobertoni@unispedag.it,Fabio Bertoni,NISPED ALBAMONTE GAETANO S.A.S.
+NO,MILANO.OPERATIVO@UNISPEDAG.IT,Management,NISPED ALBAMONTE GAETANO S.A.S.
+NO,DIREZIONE@UNISPEDAG.IT,A. Alberto,NISPED ALBAMONTE GAETANO S.A.S.
+NO,OPERATIVO@UNISPEDAG.IT,SOUTH ITALY,NISPED ALBAMONTE GAETANO S.A.S.
+NO,terzo.rengo@easycargo.it,Easycargo Srl,EASYCARGO S.R.L.
+NO,zucconie@embassycargo.com,Emma Zucconi,Embassy Cargo S.p.A.
+NO,conticini@embassycargo.com,Alessandro Conticini,Embassy Cargo S.p.A.
+NO,giovanni.mundo@gruber-logistics.com,Mundo Giovanni,GRUBER Logistics SpA
+NO,enzo.bartolini@gsc-logistics.com,Enzo Bartolini,GSC Logistics S.r.l.
+NO,massimo.mazzantini@teccargoitalia.it,Massimo Mazzantini,TEC CARGO ITALIA S.R.L.
+NO,DAVID.FERRETTO@TECCARGOITALIA.IT,David Ferretto,TEC CARGO ITALIA S.R.L.
+NO,MONICA.SACCO@TECCARGOITALIA.IT,Monica Sacco,TEC CARGO ITALIA S.R.L.
+NO,MICHAEL.CAGNONI@TECCARGOITALIA.IT,Michael Cagnoni,TEC CARGO ITALIA S.R.L.
+NO,vittorio.romano@thruex.com,Vittorio Romano,THRUEX S.R.L.
+NO,tizianozelaschi@ccsasti.com,iziano Zelaschi,C.C.SCENTRO COORDINAMENTO SPEDIZIONI S.R.L.
+NO,export@ccsasti.com,Majdi Fakhfakh,C.C.SCENTRO COORDINAMENTO SPEDIZIONI S.R.L.
+NO,katiapovigna@ccsasti.com,Katia Povigna,C.C.SCENTRO COORDINAMENTO SPEDIZIONI S.R.L.
+NO,stefania.blasi@euroforwarding.com,EURO FORWARDING D.O.O.,EURO FORWARDING SPEDICIJSKE STORITVE D.O.O.
+NO,GIORGIO.CREMONESI@EUROFORWARDING.COM,PIERGIORGIO CREMONESI,EURO FORWARDING SPEDICIJSKE STORITVE D.O.O.
+NO,samuele@iclitalia.com,Samuele Sereni,ICL ITALIA SRL
+NO,sales@sasco.it,Management,S.A.S.CO SRL AIR CONSOLIDATOR
+NO,stefano.pesci@speedlogistik.com,Stefano Pesci,SPEEDLOGISTIK S.R.L.
+NO,overseas.net@tecnofreight.it,Management,TECNOFREIGHT S.R.L.
+NO,francesco.bernasconi@unifretinternational.com,Francesco Bernasconi,UNIFRET INTERNATIONAL S.R.L.
+NO,overseas.agents@unifretinternational.com,Unifret,UNIFRET INTERNATIONAL S.R.L.
+NO,italy@volantislogistics.com,Mr. Tarik Ozcan,VOLANTIS LOGISTICS
+NO,luca.vassena@alvaslogistics.com,Luca Vassena,ALVAS LOGISTICS DI VASSENA LUCA
+NO,mariangela.decarne@jcargo.it,ariangela De Carne,JCARGO ITALIA S.R.L.
+NO,alice.arduini@alixinternational.com,STEVEN COLUCCI,ALIX INTERNATIONAL SRL
+NO,p.zaffino@aresconsultingsrl.com,PAOLO,ARES CONSULTING SRL
+NO,operation@bmshipping.eu,Mrs Luisita Bertolucci,BM Shipping Cooperative Society
+NO,mbriglia@combiline.it,Maurizio Briglia,Combi Line International Spa
+NO,cromm@cromm.it,Consolaro Gianni,CROMM INTERNATIONAL S.R.L.
+NO,info@wps.srl,GIAN LUCA DI SILVIO,WPS WORLD PRIORITY SERVICE SRLS
+NO,angelo.colombo@zaninoni.it,Management,ZANINONI INTERNATIONAL FORWARDING AGENT S.P.A.
+NO,info@sti-internazionale.it,Maio Joseph Benjamin De,STI INTERNAZIONALE SPA
+sent,email,Management,company
+NO,ajithab.parakkal@gwclogistics.com,Ajithab Parakkal,Gulf Warehousing Company Q.P.S.C
+NO,John.Francis@gwclogistics.com,John Francis,Gulf Warehousing Company Q.P.S.C
+NO,KIRAN.BAHL@GWCLOGISTICS.COM,Kiran Bahl,Gulf Warehousing Company Q.P.S.C
+NO,SALES08@AEROFRT.COM,Mohammed Farooq Ali,Aero Freight And Logistics Co WLL
+NO,coordinator2@aerofrt.com,Kovalan,Aero Freight And Logistics Co WLL
+NO,info@britaniafreight.com,ABDUL GAFOOR,Britania Freight & Logistics W.L.L
+NO,jignesh@globelinegroup.com,JIGNESH KASHYAP,GLOBELINE SHIPPING SERVICES
+NO,valliappan.doh@appleship.ae,Valliappan,APPLE SHIPPING & FREIGHT (W.L.L)
+NO,afsal@fllogistics.com,AFSAL ALI,FRONTLINE LOGISTICS
+NO,SANJEEV@FLLOGISTICS.COM,Mr. Sanjeev Kumar,FRONTLINE LOGISTICS
+NO,ABBAS@FLLOGISTICS.COM,Mr.Abbas Pookkatta,FRONTLINE LOGISTICS
+NO,info@v-onegt.com,NIYAS ALI,V-ONE GLOBAL TRANSPORTS WLL
+NO,GM@V-ONEGT.COM,ABDUL GAFOOR,V-ONE GLOBAL TRANSPORTS WLL
+NO,sales@amcogroup.co,MUSTAFA HAMDY,AMCO LOGISTICS SERVICES
+NO,INFO@AMCOGROUP.CO,MUSTAFA HAMDY,AMCO LOGISTICS SERVICES
+NO,sadique@blue-exqatar.com,BLUE EX,Blue Express Logistics WLL
+NO,operations@blue-exqatar.com,Abdul Rehman,Blue Express Logistics WLL
+NO,shipping@freightexwll.com,Noufal Parapparambil,Freightex Logistics W.L.L
+NO,DOH@GLOBCONLOGISTICS.COM,RATHEESH CHANDRAN,GLOBCON LOGISTICS
+NO,BDM@GLOBCONLOGISTICS.COM,Manodh .K. Nair,GLOBCON LOGISTICS
+NO,AIREXPORT@GLOBCONLOGISTICS.COM,Ratheesh,GLOBCON LOGISTICS
+NO,linto.fasttrack@gitcogroup.com,Management,FAST TRACK CARGO AND LOGISTICS W.L.L
+NO,mashood@qbh.qa,Mashood,QBH Logistics
+NO,finance@qbh.qa,Admin Manager,QBH Logistics
+NO,KPGULZAR@QBH.QA,K P Gulzar,QBH Logistics
+NO,jemshy@argusshipping.co,jemshy Palayil kolath,ARGUS SHIPPING W.L.L
+NO,FM@ARGUSSHIPPING.CO,ISAQUE,ARGUS SHIPPING W.L.L
+NO,pricing@argusshipping.co,FAROOQ,ARGUS SHIPPING W.L.L
+NO,GANESH@ARGUSSHIPPING.CO,GANESH ELAYIDAM,ARGUS SHIPPING W.L.L
+NO,CS@ARGUSSHIPPING.CO,SADIK THAJA,ARGUS SHIPPING W.L.L
+NO,sales1@argusshipping.co,RAFSHANA,ARGUS SHIPPING W.L.L
+NO,catq@centuryqatar.com,Anup Panicker,Century Aero Trans Qatar
+NO,MPK@CENTURYQATAR.COM,Puthukkudi Mohanan,Century Aero Trans Qatar
+NO,deepak@dsaqatar.com,Mr. Deepak Karollil Ramesh,Delta Shipping Agencies W.L.L
+NO,SAFWAN@DSAQATAR.COM,Mr. Safwan,Delta Shipping Agencies W.L.L
+NO,SAMPATH@DSAQATAR.COM,Mr. Sampath,Delta Shipping Agencies W.L.L
+NO,SUNILRAJ@DSAQATAR.COM,Mr.Sunil Raj,Delta Shipping Agencies W.L.L
+NO,Rajeev.Palari@iss-shipping.com,Rajeev Palari,Inchcape Shipping Services (Qatar) WLL
+NO,Vijay.Ravichandran@iss-gf.com,Mr. Vijay,ISS Global Forwarding (Qatar)
+NO,sunil@scorpionlogistics.qa,Sunil Dakuva,SCORPION LOGISTICS WLL
+NO,lithesh@scorpionlogistics.qa,lithesh,SCORPION LOGISTICS WLL
+NO,ashok@scorpionlogistics.qa,Ashok,SCORPION LOGISTICS WLL
+NO,j.philip@ulqatar.com,Jose Philip,United Logistics W.L.L.
+NO,M.SALEEMKHAN@ULQATAR.COM,Mohamed Saleemkhan,United Logistics W.L.L.
+NO,T.ZAIN@ULQATAR.COM,Hakeem Zain,United Logistics W.L.L.
+NO,qtrops01@agslog.com,Marzook Ahamed,AGS SHIPPING AND LOGISTICS WLL.
+NO,SAHIL@AGSLOG.COM,Mr. SAHIL,AGS SHIPPING AND LOGISTICS WLL.
+NO,op3@dtdcqatar.com,Management,DESK TO DESK COURIER W.L.L
+NO,emmanuel@easylogistics.qa,Emmanuel Ortaleza,Easy for shipping services company
+NO,isantiago@milaha.com,Isuru Santiago,Milaha Integrated Maritime And Logistics
+NO,DLonappan@Milaha.com,David Lonappan,Milaha Integrated Maritime And Logistics
+NO,binoy.abraham@slldoha.com,Binoy Abraham,SAFELINE LOGISTICS
+NO,sales@sarraslogistics.com,Management,Sar Freight Service
+NO,VAIBHAV@SARRASLOGISTICS.COM,Vaibhav Ashok Khot,Sar Freight Service
+NO,ASHISH@SARRASLOGISTICS.COM,ASHISH PRABHU,Sar Freight Service
+NO,enquiries.spacecargo@mannai.com.qa,Management,SPACE CARGO LLC
+NO,cs@threelineshipping.com,Erwin Coelho,THREE LINES SHIPPING AND LOGISTICS W.L.L
+NO,CSDOHA10@THREELINESHIPPING.COM,Erwin Coelho,THREE LINES SHIPPING AND LOGISTICS W.L.L
+NO,qatar.ngpg@gmail.com,Najib Tabet,A TOTAL OF NASSER GHANEM PROJECTS
+NO,SHABEER@CFSWORLDWIDE.COM,SHABEER,CONTAINER FREIGHT STATION WLL
+NO,vaibhavsolanki@ecuworldwide.com,Assistant Manager - Pricing,ECU LINE DOHA WWL
+NO,jctrans@flgshipping.net,Shajith Naran,FLG shipping and Logistics
+NO,info@gradientlogistic.com,Hyder Oorothil,GRADIENT INTERNATIONAL LOGISTICS
+NO,sales@hsmshipping.com,Rayees TK,HARBOUR SHIPPING AND MARINE SERVICES
+NO,a.rajesh@nbox.qa,Anirudh Rajesh,INBOX LOGISTICS W.L.L.
+NO,info@nbox.qa,Management,INBOX LOGISTICS W.L.L.
+NO,m.anoop@kings-shipping.com,Management,Kings Shipping Services W.L.L
+NO,sales@kings-shipping.com,Rahmath Swapna,Kings Shipping Services W.L.L
+NO,cs@kings-shipping.com,Althaf,Kings Shipping Services W.L.L
+NO,mithun@lonestarshipping.com,MITHUN PRASAD,LONESTAR SHIPPING
+NO,atith@magnuscargo.com,Atith Poonacha,Magnus Cargo W.L.L
+NO,sales@portworldshipping.com,General Enquiries,PORT WORLD SHIPPING AND LOGISTICS SERVICES
+NO,navab@portworldshipping.com,Navab Abdu,PORT WORLD SHIPPING AND LOGISTICS SERVICES
+NO,adil@portworldshipping.com,Adil,PORT WORLD SHIPPING AND LOGISTICS SERVICES
+NO,binesh@portworldshipping.com,Binesh Frederick,PORT WORLD SHIPPING AND LOGISTICS SERVICES
+NO,qlogex@qlogex.com,MOHAMMED FAHIM,Q LOGEX SERVICES W.L.L.
+NO,sales@qlogex.com,ROOPA,Q LOGEX SERVICES W.L.L.
+NO,sales@standardoshaiger.com,Jonalyn Labon,Standard Oshaiger Logistic Services
+NO,accounts.qa@worldzoneglobal.com,Management,WORLD ZONE SHIPPING SERVICES WLL
+NO,lakshmikandhan@yes2ship.com,Management,Yes to Ship W.L.L.
+NO,info.qa@yes2ship.com,Charbel El Khoury,Yes to Ship W.L.L.
+NO,info@dohaexpress.net,Aslam Hussain,Aldoha Express International Freight
+NO,alphalogintl@gmail.com,Aneez,ALPHA LOGISTICS WLL
+NO,amith@cssqatar.com,AMITH RADHAKRISHNAN,CONSOLE SHIPPING SERVICES W.L.L
+NO,sreeraj@freightwaysinc.com,SREERAJ RAJAN,Freight Ways Logistics
+NO,sajin@freightwaysinc.com,Sajin R Pillai,Freight Ways Logistics
+NO,**cs1doh@freightwaysinc.com,Derina Nitha,Freight Ways Logistics
+NO,araj@nbn.qa,Arun Raj,NBN LOGISTICS
+NO,pricing@landbridge.me,Georgy Annich,LANDBRIDGE FREIGHT SERVICES
+NO,sales@celestcargo.com,Firos,CELESTIAL CARGO
+NO,info@dawonfs.com,Mohanan Unnithan,Dawon Freight Services
+NO,qatar@alamalcargo.com,AlAmal,Alamal Logistics and Transport
+NO,sayed@apexsolutions.qa,Sayed Adel,Apex Solutions Logistics Services
+NO,logistics@altalibshipping.com,Management,Al Talib Qatar Shipping Co. W.L.L.
+NO,info@arts-qatar.com,Mohammed Shaheer,Arts Logistics (Al Rawnaq Transport Shipping)
+NO,khalid.qadoh@freightsystems.com,Mr Hikaam Khalid,Freight Systems Co. Ltd. (W.L.L.)
+NO,mgrdoh@maxlineslogistics.com,Anees Mohammed,MAXLINES LOGISTICS AND SHIPPING WLL
+NO,m_awad@moonfreightservices.com,MOHAMMED AWAD,MOON FREIGHT SERVICES
+NO,santharam@connectcargo.com,H L SANTHARAM,CONNECT CARGO PVT LTD
+NO,PRICING@CONNECTCARGO.COM,Priya,CONNECT CARGO PVT LTD
+NO,HEADOFFICE@CONNECTCARGO.COM,Nandhinee/Mishra,CONNECT CARGO PVT LTD
+NO,overseas@macrologistics.co.in,Management,MACRO LOGISTICS & EXIM PVT LTD.
+NO,sunila@anilmantra.com,Sunila Yadav,ANIL MANTRA LOGISTIX PVT. LTD
+NO,admin@dsagencygroup.com,Arun Maheshwari,DEVANSHI SHIPPING AGENCY PRIVATE LIMITED
+NO,harpreetsingh@speditionindia.com,Harpreet Singh,SPEDITION
+NO,neelam@speditionindia.com,Neelam Mohan,SPEDITION
+NO,priyanka@speditionindia.com,Priyanka Bali,SPEDITION
+NO,siddharthm@speditionindia.com,Siddharth Mehta,SPEDITION
+NO,kaushal@avaglobal.in,Kaushal Vithlani,Ava Global Logistics Pvt Ltd
+NO,DARSHAN@AVAGLOBAL.IN,Darshan Ghodawat,Ava Global Logistics Pvt Ltd
+NO,bhimesh@asrepl.com,BHIMESH ANEJA,ASR EXPRESS PRIVATE LIMITED
+NO,jyoti@asrepl.com,Jyoti Choubey,ASR EXPRESS PRIVATE LIMITED
+NO,enquiry@capricornlogisitcs.com,Management,Capricorn Logistics Private Limited
+NO,airopsdel@uscom.net,Peter Lee,USCOM LOGISTICS INDIA PRIVATE LIMITED
+NO,info@alonso-india.com,Ranjit Rahulan,ALONSO LOGISTICS INDIA PRIVATE LIMITED
+NO,overseas@awatacgroup.com,V V Srinivasa,AWATAC LOGISTICS PVT LTD
+NO,overseas@awatac.in,Shona,AWATAC LOGISTICS PVT LTD
+NO,fardeen@galaxycargoservices.com,Mr. Fardeen Malbarwala,GALAXY CARGO SERVICES (INDIA) LLP
+NO,jayesh.nachane@galaxycargoservices.com,Mr. Jayesh Nachane,GALAXY CARGO SERVICES (INDIA) LLP
+NO,pricing@srvglobal.in,Nilesh Shah,SRV GLOBAL FREIGHT PRIVATE LIMITED
+NO,k.rajkiran@tcil.com,Rajkiran Kanagala,Transport Corporation of India Limited
+NO,debapriya.mukherjee@tcil.com,Debapriya Mukherjee,Transport Corporation of India Limited
+NO,Pooja.yadav@tcil.com,Pooja Yadav,Transport Corporation of India Limited
+NO,**mktgsupport@tcil.com,Shubhi Chaurasia,Transport Corporation of India Limited
+NO,Saumya.ray@tcilmiddleeast.com,Saumya Ray,Transport Corporation of India Limited
+NO,samaresh.ccu@unique-usa.com,SAMARESH CHAKRABORTY,UNIQUE LOGISTICS INTERNATIONAL INDIA PRIVATE LIMITED
+NO,supratim.ccu@unique-usa.com,Management,UNIQUE LOGISTICS INTERNATIONAL INDIA PRIVATE LIMITED
+NO,girja.joshi.del@unique-usa.com,Girja S Joshi,UNIQUE LOGISTICS INTERNATIONAL INDIA PRIVATE LIMITED
+NO,Vn_pandey@vrclogistics.com,Bhawna Sharma,VRC LOGISTICS PRIVATE LIMITED
+NO,mktg@wtlplgroup.com,Ravin Paul,WORLD TRADE LOGISTICS PVT LTD
+NO,chaitaly@ekfpl.com,Chaitaly Mehta,EKF Global Logistics Pvt Ltd
+NO,EKFIMP@EKFPL.COM,Mrs Farida Sheikh,EKF Global Logistics Pvt Ltd
+NO,EKFACT@EKFPL.COM,Mrs Shobha Sawant,EKF Global Logistics Pvt Ltd
+NO,eric@phoenixlogistics.in,Eric John Wynne,Phoenix Logistics India Pvt Ltd.
+NO,greesh@rbrlambah.com,Greesh Dhawan,R.B.RAM NATH LAMBAH AND SONS PVT.LTD.
+NO,peter@mslogistic.in,Pedru Rodrigues,M S Logistics
+NO,TRUPTI@MSLOGISTIC.IN,Trupti Salvi,M S Logistics
+NO,DEEPAK@MCLPL.CO.IN,DEEPAK TREHAN,Muskan Container Lines Pvt. Ltd.
+NO,ganesh@blr.atlaslogistics.co.in,M J GANESH (Ganny),ATLAS LOGISTICS PVT LTD
+NO,satish@jubileecargo.com,Satish Deshchougule,Jubilee Cargo Pvt Ltd
+NO,Robert.sands@jupiterseaair.co.in,Robert Sands,JUPITER SEA & AIR SERVICES PVT LTD
+NO,sunilm@kglindia.in,Sunil Menon,KALASH GLOBAL LOGISTICS PVT LTD
+NO,RACHIN@KGLINDIA.IN,Rachin Aiya,KALASH GLOBAL LOGISTICS PVT LTD
+NO,ittu@kodansolutions.com,Ittu Sharma,KODAN SOLUTIONS PRIVATE LIMITED
+NO,DAMAN_GROVER@KODANSOLUTIONS.COM,G D Grover,KODAN SOLUTIONS PRIVATE LIMITED
+NO,ANUBHAV@KODANSOLUTIONS.COM,Anubhav Mehrish,KODAN SOLUTIONS PRIVATE LIMITED
+NO,TUSHAR@KODANSOLUTIONS.COM,Tushar Sharma,KODAN SOLUTIONS PRIVATE LIMITED
+NO,allen@bwl.co.in,L N Mishra,BLUE WATER LOGISTICS LIMITED
+NO,SALES@BWL.CO.IN,LALIT PANDA,BLUE WATER LOGISTICS LIMITED
+NO,nirupma@deflogistik.com,Management,DEF LOGISTICS LLP
+NO,MV.Sachitha@mahindralogistics.com,MV Sachitha,LORDS FREIGHT (INDIA) PRIVATE LIMITED
+NO,info@magsfreight.com,Mahipal Wig,MAGS FREIGHT SERVICES LLP
+NO,suganya.s@serama.in,Serama Logistics,Serama Logistics Private Limited
+NO,SHANMUGASUNDARAM@SERAMA.IN,Shanmuga Sundaram .T,Serama Logistics Private Limited
+NO,SRINIVASAN.G@SERAMA.IN,Ganesh Srinivasan,Serama Logistics Private Limited
+NO,SANGEETHA@SERAMA.IN,Sangeetha,Serama Logistics Private Limited
+NO,nitin@suntranslogistics.com,Anuradha,SUN TRANS SHIPPING INDIA PVT.LTD
+NO,anil@vands.in,ANIL KUMAR,V&S SEAIR LOGISTICS PVT. LTD
+NO,honey.ldh@ajsl.in,Honey Kumar,A J S LOGISTICS PVT LTD
+NO,cschn@applefreight.net,Nivetha,Apple Freight And Logistics LLP(Chennai)
+NO,cust2@applefreight.net,Mr. Murugan,APPLE FREIGHT AND LOGISTICS PRIVATE LIMITED
+NO,niyasdeen@britaniafreight.com,Niyasdeen,Britania Freight And Logistics
+NO,INFO@BRITANIAFREIGHT.COM,Niyasdeen,Britania Freight And Logistics
+NO,satish@contransgroup.com,SATISH GOEL,CONTRANS CARGO PVT LTD
+NO,bala@icsagroup.com,Balachandran,International Clearing & Shipping Agency (India) Private Limited
+NO,kotiant@marinetrans.in,Tiraj Kotian,Marinetrans India Ltd.
+NO,walter@neptunecontainers.com,Walter George,Neptune Container Line & Logistics Pvt Ltd
+NO,nilesh@pentagonindia.net,Nilesh vejre,Pentagon International Freight Solutions Pvt. Ltd.
+NO,chandra@seeluft.in,Mr Chandra,SEELUFT INDIA PVT LTD
+NO,**overseas@signal-logistics.com,AMIT ARORA,SIGNAL LOGISTICS PVT LTD
+NO,OPERATIONS@SIGNAL-LOGISTICS.COM,AMIT ARORA,SIGNAL LOGISTICS PVT LTD
+NO,shankar@synergy-express.com,ES SHANKAR,Synergy Express Logistics Pvt Ltd
+NO,alok.rai@velocitergroups.com,ALOK KUMAR RAI,VELOCITER LOGISTICS PVT LTD
+NO,vishwangowda@vworldlogistics.com,Vishwan Gowda M.C,VWORLD LOGISTICS AND SERVICES PRIVATE LIMITED
+NO,vithin@vworldlogistics.com,Vithin M.C,VWORLD LOGISTICS AND SERVICES PRIVATE LIMITED
+NO,sushmitha.v@vworldlogistics.com,Sushmitha KV,VWORLD LOGISTICS AND SERVICES PRIVATE LIMITED
+NO,devika.k@vworldlogistics.com,Devika MK,VWORLD LOGISTICS AND SERVICES PRIVATE LIMITED
+NO,sales@aframaxlogistics.com,Aparna Kumari,AFRAMAX LOGISTICS INDIA PVT LTD
+NO,vfvsathiyan@ajaerosailxps.com,V.F.Vedasathiyan,Aj Aero Sail Xpress Private Limited
+NO,santhosh@blisslog.com,Santhosh Kumar Menon,BLISS LOGISTICS & SHIPPING PVT LTD
+NO,subha@blisslog.com,Mrs.Subha priya,BLISS LOGISTICS & SHIPPING PVT LTD
+NO,pricing@blisslog.com,Management,BLISS LOGISTICS & SHIPPING PVT LTD
+NO,nagubabu@briskfr8.com,NAGUBABU.M,BRISK FREIGHT (INDIA) PRIVATE LIMITED
+NO,**pushpinder@cargobizindia.com,PUSHPINDER SINGH CHAWLA,CARGOBIZ INDIA LLP
+NO,OPS@CARGOBIZWORLD.COM,Manvi,CARGOBIZ INDIA LLP
+NO,kanika@cargopeople.com,Kanika Adlakha,Cargopeople Logistics And Shipping Pvt. Ltd.
+NO,prateek.sharma@continentalgroup.com,Prateek Sharma,Continental Carriers (P) Ltd
+NO,intlpricing@continentalgroup.com,Mr. Prateek Sharma,Continental Carriers (P) Ltd
+NO,JASSIT.KHALKHO@CONTINENTALGROUP.COM,Jassit Khalkho,Continental Carriers (P) Ltd
+NO,docs@entrustshipping.com,MANOJ KUMAR,ENTRUST SHIPPING LLP
+NO,jctrans@fastlogisticscargo.com,Management,Fast Forward Logistics India Private Ltd
+NO,hkaushik@hsvworldwide.com,HARIKESH KAUSHIK,HSV WORLDWIDE CARGO SERVICES PVT LTD
+NO,SURENDRA@HSVWORLDWIDE.COM,SURENDRA KHATANA,HSV WORLDWIDE CARGO SERVICES PVT LTD
+NO,mayuri@indikos.in,Mayuri Gupta,Indikos Forwarding Private Limited
+NO,info@interspedlog.com,RAVI KUMAR,INTERSPED LOGISTICS INDIA PRIVATE LIMITED
+NO,**anil.aggarwal@interspedlog.com,ANIL KUMAR AGGARWAL,INTERSPED LOGISTICS INDIA PRIVATE LIMITED
+NO,sriram@kmpfreight.com,Sriram Muthu Krishnan,KMP FREIGHT PRIVATE LIMITED
+NO,RATES@KMPFREIGHT.COM,Priya,KMP FREIGHT PRIVATE LIMITED
+NO,Alok@mmolpl.com,Mr. Alok Sobti,MULTI MODAL OVERSEAS PVT. LTD.
+NO,PRICING@MMOLPL.COM,Management,MULTI MODAL OVERSEAS PVT. LTD.
+NO,SANDEEP@MMOLPL.COM,Sandeep,MULTI MODAL OVERSEAS PVT. LTD.
+NO,management@quickfreight.in,Kuldeep Singh,Quick Freight Systems Pvt. Ltd.
+NO,ssgchart@sabelatrans.com,Ms Jiji Biju,SABELATRANS SHIPPING & LOGISTICS PVT.LTD.
+NO,akshay@svls.info,Akshay Sonawane,Shri Vaishnavi Logistics Solutions
+NO,venkataram@svls.info,Venkataram Kompalli,Shri Vaishnavi Logistics Solutions
+NO,vikas@svls.info,Vikas,Shri Vaishnavi Logistics Solutions
+NO,SKB@TBOCARGO.COM,Mr. SK Bansal,TBO Cargo Pvt Ltd
+NO,INFO@TBOCARGO.COM,Nandkishore Kushwah,TBO Cargo Pvt Ltd
+NO,soman@teamleader.in,ARJUN SOMAN,Teamleader Logistics Private Limited
+NO,ashish@tqllogistic.com,ASHISH NIGAM,TQL LOGISTICS PVT LTD
+NO,NIKHIL@TQLLOGISTIC.COM,NIKHIL BAJPAI,TQL LOGISTICS PVT LTD
+NO,rakesh@yhcargo.in,Rakesh Mishra,Y&H Cargo Pvt Ltd
+NO,RAMESH@YHCARGO.IN,Ramesh Mishra,Y&H Cargo Pvt Ltd
+NO,ASHU@YHCARGO.IN,Ashutosh Mishra,Y&H Cargo Pvt Ltd
+NO,sandeep.dobriyal@dexprologistics.com,sandeep,Dexpro Logistics Private Limited
+NO,SANJAY@DEXPROLOGISTICS.COM,SANJAY SIKKA,Dexpro Logistics Private Limited
+NO,saurabh.trikha@aargusglobal.com,Saurabh Trikha,Aargus Global Logistics Pvt Ltd
+NO,NIVEDITA@AARGUSGLOBAL.COM,Nivedita Bharadwaj,Aargus Global Logistics Pvt Ltd
+NO,VARUN.GUPTA@AARGUSGLOBAL.COM,Varun Gupta,Aargus Global Logistics Pvt Ltd
+NO,uday@asllog.in,Mr Udayaraj Panicker,ABK Supply Chain Services Pvt Ltd.
+NO,abhishek@abslogistics.in,Abhishek Jain,ABS LOGISTICS PRIVATE LIMITED
+NO,ajju.cs@aeindia.co.in,Ajju,Ace Express Logistics Imex Private Limited
+NO,ASHISHK@AEINDIA.CO.IN,Mr. Ashish Khatu,Ace Express Logistics Imex Private Limited
+NO,ASMITAS@AEINDIA.CO.IN,Ms. Asmita Sawant,Ace Express Logistics Imex Private Limited
+NO,PALLAVID@AEINDIA.CO.IN,Ms. Pallavi Deepak,Ace Express Logistics Imex Private Limited
+NO,mghosh@assipl.in,MANISH GHOSH,ALACRITY SHIPPING SERVICES INDIA PRIVATE LIMITED
+NO,bhavesh.nagda@annantglobal.com,Mr. Bhavesh Nagda,Annant Global Forwarders Private Limited
+NO,pricing@apricotfreight.com,Sairaman M,APRICOT FREIGHT SOLUTIONS PRIVATE LIMITED
+NO,saurabh@atsworldwide.co.in,Saurabh Sahni,ATS Worldwide Pvt Ltd
+NO,PRASHANT@ATSWORLDWIDE.CO.IN,Prashant Swami,ATS Worldwide Pvt Ltd
+NO,chartering@avionship.com,Sharief Hassan Ahmed,Avion Shipping enterprises Pvt. Ltd.
+NO,ajay.kavadia@avionship.com,Ajay Kavadia,Avion Shipping enterprises Pvt. Ltd.
+NO,globalnetwork@balmerlawrie.com,Mr. Sushil Dugar,Balmer Lawrie & Co. Ltd.
+NO,d.sharma@beelogistics.com,DEVASHEESH SHARMA,BEE LOGISTICS SCM PRIVATE LIMITED
+NO,jitendra@bluewingglobal.com,Jitendra Trigunayat,Blue Wing Global Freight Pvt Ltd
+NO,subodh.singh@casiaglobal.in,SUBODH SINGH,CASIA GLOBAL LOGISTICS PRIVATE LIMITED
+NO,SUPPORT@CASIAGLOBAL.IN,AMOL GHEWARI,CASIA GLOBAL LOGISTICS PRIVATE LIMITED
+NO,GANESH.FULSUNDAR@CASIAGLOBAL.IN,Ganesh Fulsundar,CASIA GLOBAL LOGISTICS PRIVATE LIMITED
+NO,charlie@charliefreightsystems.com,PAWAN THAPLIYAL, CHARLIE THAPLIYAL
+NO,sunil@click2ship.co.in,SUNIL NEELAM,CLICK2SHIP LOGISTICS PRIVATE LIMITED
+NO,cs@click2ship.co.in,Latha M P,CLICK2SHIP LOGISTICS PRIVATE LIMITED
+NO,rajeesh@click2ship.co.in,Rajeesh Surendran,CLICK2SHIP LOGISTICS PRIVATE LIMITED
+NO,SALES@DFLINDIA.IN,Mr. Dinesh Tiwari,Demira Freight Linkers India Pvt Ltd
+NO,raymond.thomas@excelsior-freight.com,Raymond Thomas,Excelsior Freight Solution Pvt. Ltd.
+NO,PRADIP@EXCELSIOR-FREIGHT.COM,Mr. Pradip Upadhyaya,Excelsior Freight Solution Pvt. Ltd.
+NO,vishal.shah@exprezy.in,Management,EXPREZY LOGISTICS PRIVATE LIMITED
+NO,MEHTA.SHAUNAK@FLOMICGROUP.COM,Shaunak Mehta,FLOMIC GLOBAL LOGISTICS LIMITED
+NO,rahul.tanwar@flomicgroup.com,Rahul Tanwar,FLOMIC GLOBAL LOGISTICS LIMITED
+NO,amit@fcl-india.in,Amit Kumar Chaudhary,FREIGHT CONSOL LOGISTICS PRIVATE LIMITED
+NO,amol.pawar@fclindia.in,Amol Pawar,FREIGHT CONSOL LOGISTICS PRIVATE LIMITED
+NO,AMIT@FCLINDIA.IN,Amit Kumar Chaudhary,FREIGHT CONSOL LOGISTICS PRIVATE LIMITED
+NO,pricing1@freightlines.co.in,Parnika P,FREIGHT LINES INDIA PVT. LTD.
+NO,CLEARING@FREIGHTLINES.CO,Mr. Sujeet Singh,FREIGHT LINES INDIA PVT. LTD.
+NO,PHILO@FREIGHTLINES.CO,Mrs. Philomena Iyengar,FREIGHT LINES INDIA PVT. LTD.
+NO,KRUNAL@FREIGHTLINES.CO,Mr. Krunal Zaveri,FREIGHT LINES INDIA PVT. LTD.
+NO,INFO@FREIGHTLINES.CO,Mr. Kishan Lachhmandas Batra,FREIGHT LINES INDIA PVT. LTD.
+NO,OVERSEAS@FREIGHTLINES.CO,Ms. Priyanka Gharat,FREIGHT LINES INDIA PVT. LTD.
+NO,upendra@gfsolutions.in,UPENDRA RAI,GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,pardeep@gfsolutions.in,PARDEEP (MEET),GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,ESHA@GFSOLUTIONS.IN,ESHA,GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,SADHNA@GFSOLUTIONS.IN,SADHNA,GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,sabbir@gfsolutions.in,Md Sabbir,GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,amrita@gfsolutions.in,amrita,GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,deepika@gfsolutions.in,deepika,GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,FCLOPS@GFSOLUTIONS.IN,MS NAZMA,GALLIARD FREIGHT SOLUTIONS PVT. LTD
+NO,akb@globaltidelogistics.com,Arun K Benny,GLOBAL TIDE SHIPPING AND LOGISTICS SERVICES
+NO,ANUALEX@GLOBALTIDELOGISTICS.COM,Anu Alexander,GLOBAL TIDE SHIPPING AND LOGISTICS SERVICES
+NO,saurin@globizz.co.in,saurin,GLOBIZZ SYNERGY PRIVATE LIMITED
+NO,madhuri@globizz.co.in,Saurin Shah,GLOBIZZ SYNERGY PRIVATE LIMITED
+NO,Urvish@globizz.co.in,URVISH,GLOBIZZ SYNERGY PRIVATE LIMITED
+NO,rishi@globusdelhi.com,Rishi Jain,Globus Transitos Private Limited
+NO,manojgupta@haikologistics.com,Manoj Gupta,Haiko Logistics India Private Limited.
+NO,s.ramesh@igslogistics.net,S.RAMESH,IGREEN SHIPPING & LOGISTICS PRIVATE LIMITED
+NO,cust@kheelogistics.com,CHANDRU,KHEE LOGISTICS INDIA PRIVATE LIMITED
+NO,CHANDRU@KHEELOGISTICS.COM,CHANDRU,KHEE LOGISTICS INDIA PRIVATE LIMITED
+NO,THAVASI@KHEELOGISTICS.COM,MS.THAVASI,KHEE LOGISTICS INDIA PRIVATE LIMITED
+NO,ACCOUNTS@KHEELOGISTICS.COM,Ms.DEEPANA,KHEE LOGISTICS INDIA PRIVATE LIMITED
+NO,info@kiffal.com,KIFFAL,KIFFAL (Kannur International Freight Forwarding And Logistics Pvt Ltd)
+NO,viraj.k@kmlpl.com,VIRAJ KOTAK,KOTAK MULTILINK LOGISTIX PRIVATE LIMITED
+NO,kowshik.v@kv-logistics.co.in,KOWSHIKA D V,KRISSH VISH LOGISTICS PRIVATE LIMITED
+NO,Pradeak_sk@ksrindia.net,PRADEAK KRISHNAMURTHY,K.S.R. FREIGHT FORWARDERS PVT LTD
+NO,NAZEE@KSRINDIA.NET,NAZEE,K.S.R. FREIGHT FORWARDERS PVT LTD
+NO,Animesh@liyanaindia.com,Animesh,Liyana Logistics Pvt Ltd
+NO,SALES@LIYANAINDIA.COM,Subhra Chatterjee,Liyana Logistics Pvt Ltd
+NO,dharmendra.singh@logitrust.in,Dharmendra Singh,Logitrust Xpress Pvt Ltd
+NO,gururaj@lognetfreight.com,Gururaj Polali,LOGNET FREIGHT SERVICES (I) PVT LTD
+NO,info@mlsi.org,Anshul Sachan,MASTERS LOGISTICS SOLUTIONS INDIA PVT LTD
+NO,Manisha.Sachan@mlsi.org,MANISHA SACHAN,MASTERS LOGISTICS SOLUTIONS INDIA PVT LTD
+NO,operations@milestoneworldwide.co.in,Ajay Vinayak Patankar,Milestone Worldwide Freight Solutions Private Limited
+NO,marketing@mmllog.net,ABDUL RASHEED,MML LOGISTICS
+NO,INFO@MMLLOG.COM,SHAMEER,MML LOGISTICS
+NO,OPS@MMLLOG.COM,MOHAMED ILLIAS,MML LOGISTICS
+NO,ZAKI@MMLLOG.NET,MOHAMED ZAKI,MML LOGISTICS
+NO,ANSARI@MMLLOG.NET,AHMED ANSARI,MML LOGISTICS
+NO,ACCOUNTS@MMLLOG.COM,MAYANDI,MML LOGISTICS
+NO,info@moversglobal777.com,subramanyam,Movers Global Logistics LLP
+NO,mayank@mrgrouponline.com,MAYANK MATHUR,M.R. CARGO MOVERS
+NO,bahetirajkumar@mrshipping.in,Rajkumar,M R Shipping Private Limited
+NO,sales@mrshipping.in,Parwati Shivanagi,M R Shipping Private Limited
+NO,docs@mrshipping.in,GANESH SONAWANE,M R Shipping Private Limited
+NO,nomita@newglobegroup.com,Nomita Kothari,NEW GLOBE LOGISTIK LLP
+NO,Deepak@omfreight.com,Mr. JITENDRA JOSHI,OM FREIGHT FORWARDERS LTD
+NO,mvr@pbcargo.in,Ms. Medha Vikas Ranadive,Pacific Blue Cargo Pvt.Ltd
+NO,sunil@palsunmaritime.com,SUNIL DAVE,PALSUN MARITIME (INDIA) LIMITED
+NO,sales@polgrps.com,MUHAMED YASEEN,POLARIS SHIPPING LINES LIMITED LIABILITY PARTERSHIP
+NO,pricing@polgrps.com,Management,POLARIS SHIPPING LINES LIMITED LIABILITY PARTERSHIP
+NO,cs@polgrps.com,Mohammed hussain,POLARIS SHIPPING LINES LIMITED LIABILITY PARTERSHIP
+NO,ops@polgrps.com,Althaf,POLARIS SHIPPING LINES LIMITED LIABILITY PARTERSHIP
+NO,bdm.maa@POLGRPS.COM,Umar,POLARIS SHIPPING LINES LIMITED LIABILITY PARTERSHIP
+NO,acc@POLGRPS.COM,Nambirrajan,POLARIS SHIPPING LINES LIMITED LIABILITY PARTERSHIP
+NO,gaurav@radlogistics.co.in,Gaurav Banswal,RAD LOGISTICS INDIA PVT LTD
+NO,milan.shah@safexinternational.com,Milan Shah,Safex International
+NO,INFO@SAITRANSLINK.COM,YOGESH M MORE,SAI TRANSLINK LOGISTICS
+NO,sharad.mehrotra@satlogsolutions.com,Sharad Mehrotra,SATLOG SOLUTIONS PRIVATE LIMITED
+NO,sanjoy@sdblogistics.com,SANJOY DEB,SDB WORLDWIDE LOGISTICS PVT LIMITED
+NO,RONALD@SDBLOGISTICS.COM,Mr. Ronald Dayanand,SDB WORLDWIDE LOGISTICS PVT LIMITED
+NO,PRICING@SDBLOGISTICS.COM,Management,SDB WORLDWIDE LOGISTICS PVT LIMITED
+NO,exports@seaflag.in,SHITENDER,Seaflag Global Shipping Private Limited
+NO,pankaj.gupta@7skyglobal.com,Pankaj Gupta,Sevenskyz Global Logistics Private Limited
+NO,Surekha.Brito@7skyglobal.com,Surekha Brito,Sevenskyz Global Logistics Private Limited
+NO,srinivas@shastafreight.in,Srinivas Karra,Shasta Freight Services Private Limited (Hyderabad)
+NO,GOPI@SHIFTCOSHIP.COM,Gopi R,Shiftco Shipping & Logistics India Pvt Ltd
+NO,vijay@shiftcoship.com,Vijay Anand,Shiftco Shipping & Logistics India Pvt Ltd
+NO,SUNITHA@SHIFTCOSHIP.COM,Sunitha Gopi,Shiftco Shipping & Logistics India Pvt Ltd
+NO,AJITH@SHIFTCOSHIP.COM,P.B.Ajith Kumar,Shiftco Shipping & Logistics India Pvt Ltd
+NO,SUDHARSAN@SHIFTCOSHIP.COM,Sudharsan,Shiftco Shipping & Logistics India Pvt Ltd
+NO,swamy@sivashipping.in,T N MUNUSWAMY,Siva Shipping and Transport
+NO,SIVA@SIVASHIPPING.IN,P SIVA KUMAR,Siva Shipping and Transport
+NO,VANI.BHASKAR@SIVASHIPPING.IN,Vani Bhaskar,Siva Shipping and Transport
+NO,manas@sjagannath.com,Manas Mahapatra,SJ SHIPPING AND LOGISTICS PRIVATE LIMITED
+NO,vijaykumar.p@sjagannath.com,Vijaykumarraju Pakalapati,SJ SHIPPING AND LOGISTICS PRIVATE LIMITED
+NO,Spruha.Desai@Sorigin.co,Spruha Desai,SORIGIN LOGISTICS SERVICES INDIA PRIVATE LIMITED
+NO,gautam.rekhi@Sorigin.co,Gautam Rekhi,SORIGIN LOGISTICS SERVICES INDIA PRIVATE LIMITED
+NO,Kanchan.Mandhyani@sorigin.co,Kanchan Mandhyani,SORIGIN LOGISTICS SERVICES INDIA PRIVATE LIMITED
+NO,selva@speedtransgl.com,Selvakumar Natarajan,Speedtrans Global Logistics Pvt.Ltd.
+NO,csr2@speedtransgl.com,A. Annu Priyanka,Speedtrans Global Logistics Pvt.Ltd.
+NO,UMAR@SPEEDTRANSGL.COM,Sheik Umar,Speedtrans Global Logistics Pvt.Ltd.
+NO,RISHI@SPEEDTRANSGL.COM,Siva Raja Rishi,Speedtrans Global Logistics Pvt.Ltd.
+NO,vineet@stepforwardlogistics.com,Mr. Vineet Malik,STEP FORWARD LOGISTICS PRIVATE LIMITED
+NO,atul@stepforwardlogistics.com,Mr. Atul Batra,STEP FORWARD LOGISTICS PRIVATE LIMITED
+NO,abhijeet@surecargologistics.com,Abhijeet Parashar,SURECARGO LOGISTICS INDIA PRIVATE LIMITED
+NO,vs@tkws.in,VISHAL SETHI,TKW SUPPLY CHAIN INTERNATIONAL LIMITED
+NO,TARUN@TKWS.IN,Mr. Tarun Vashisht,TKW SUPPLY CHAIN INTERNATIONAL LIMITED
+NO,MOHITGOYAL@TKWS.IN,Mr. Mohit Goyal,TKW SUPPLY CHAIN INTERNATIONAL LIMITED
+NO,HARDEEPKAUR@TKWS.IN,Ms. Hardeep Kaur,TKW SUPPLY CHAIN INTERNATIONAL LIMITED
+NO,venkatesh@transpeedlogistics.com,Mr Venkatesh Rao,TRANSPEED LOGISTICS PVT LTD
+NO,txin@txlogi.com,sophia,TX AIR AND SEA LOGISTICS INDIA PVT LTD.
+NO,arun@ukfexpress.com,Arun Banyal,UK FREIGHT SERVICES PVT LTD
+NO,inquiry@vsllogistics.co.in,Management,VSL LOGISTICS SOLUTIONS PRIVATE LIMITED
+NO,ajay@winteam.co.in,AJAY A.MARCHANDE,WINTEAM CONSOLIDATORS INDIA PVT. LTD.
+NO,amit@wwl.net.in,Amit Singh KAUSHIK,WORTH WORLDWIDE LOGISTICS PRIVATE LIMITED
+NO,ambrish@zipaworld.com,Dr Ambrish Kumar,ZIPAWORLD INNOVATION PVT LTD
+NO,ROHIT@ZIPAWORLD.COM,Mr Rohit Singh,ZIPAWORLD INNOVATION PVT LTD
+NO,kyampure@salservices.in,KISAN YAMPURE,SAL SEA AIR LOGISTICS SERVICES PVT LTD
+NO,kv@88cubelogistics.com,K VENKATACHALAM,88CUBE LOGISTICS
+NO,SELVA@88CUBELOGISTICS.COM,A.SELVAKUMAR,88CUBE LOGISTICS
+NO,sales@logisticplanner.com,AMIT KUMAR,AFFINITY LOGISTICS AND PLANNERS PVT LTD
+NO,roopeshk@aircruiselogistics.com,ROOPESH KUMAR NARAYANAN,AIRCRUISE LOGISTICS INDIA PRIVATE LIMITED
+NO,overseas@akplogistics.in,P B BALAJI,AKP LOGISTICS INDIA PVT LTD
+NO,IGM@AKPLOGISTICS.IN,Ms. Jayanthi,AKP LOGISTICS INDIA PVT LTD
+NO,DO@AKPLOGISTIS.IN,N R NALINI,AKP LOGISTICS INDIA PVT LTD
+NO,prasanta.halder@allcargologistics.com,Prasanta Halder,Allcargo Logistics Limited
+NO,RAVINDRA.GADGE@ALLCARGOLOGISTICS.COM,Ravindra Gagde,Allcargo Logistics Limited
+NO,UMER.SYED@ALLCARGOLOGISTICS.COM,Umer Syed,Allcargo Logistics Limited
+NO,BHAGESH.PALEKAR@ALLCARGOLOGISTICS.COM,Bhagesh Palekar,Allcargo Logistics Limited
+NO,prateek@ampluslogistics.com,Prateek Singhal,Amplus Logistics India Pvt Ltd
+NO,sales@anushresthalogistics.com,Management,ANU SHRESTHA LOGISTICS
+NO,info@anushresthalogistics.com,Anoop SHARMA,ANU SHRESTHA LOGISTICS
+NO,preeti@arcticshipping.in,Preeti Shukla,Arctic Shipping Services Pvt Ltd
+NO,mano@aremlogistics.in,R MANOGARAN,AREM LOGISTICS
+NO,DOC1CJB@AREMLOGISTICS.IN,S. Balaji,AREM LOGISTICS
+NO,DOC2CJB@AREMLOGISTICS.IN,Sumithra,AREM LOGISTICS
+NO,admin@arrowgloballogistics.com,Management,ARROW GLOBAL LOGISTICS PRIVATE LIMITED
+NO,INFO@ARROWGLOBALLOGISTICS.COM,Management,ARROW GLOBAL LOGISTICS PRIVATE LIMITED
+NO,rahul.malve@ashconlogistics.com,RAHUL MALVE,ASHCON LOGISTICS INDIA PVT. LTD.
+NO,RAJESH.SALIAN@ASHCONLOGISTICS.COM,Rajesh Salian,ASHCON LOGISTICS INDIA PVT. LTD.
+NO,overseas@ashconlogistics.com,Mr. Shubham,ASHCON LOGISTICS INDIA PVT. LTD.
+NO,SALES@AVFSINDIA.COM,AMIT RAMCHANDANI,A V Freight Solutions
+NO,ravi@awardlink.in,V. Ravi Kumar,Awardlink Logistics India Pvt Ltd.
+NO,DEVA@AWARDLINK.IN,Mr.Devaraj.S,Awardlink Logistics India Pvt Ltd.
+NO,sarita.del@awslogistics.in,Sarita Swain,AWS CARGO SERVICES PVT LTD
+NO,MANI@AWSLOGISTICS.IN,Mani,AWS CARGO SERVICES PVT LTD
+NO,deepak@berriologistics.com,Deepak Upadhyay,BERRIO LOGISTICS INDIA PVT LTD
+NO,overseas.cs@berriologistics.com,Juili,BERRIO LOGISTICS INDIA PVT LTD
+NO,anish@candorllp.com,Anish Aravind,Candor Logistics LLP
+NO,vignesh@cargo-int.com,Management,CARGO INTERNATIONAL (INDIA) PRIVATE LIMITED
+NO,DOCSINDIA@CARGO-INT.COM,Bharathi,CARGO INTERNATIONAL (INDIA) PRIVATE LIMITED
+NO,FINANCE@CARGO-INT.COM,MANIKANDAN,CARGO INTERNATIONAL (INDIA) PRIVATE LIMITED
+NO,vinayakjk@cargosafeexpress.com,Vinayak Kokate,Cargosafe Express Logistics India Pvt Ltd
+NO,CS@CARGOSAFEEXPRESS.COM,Anand Mishra,Cargosafe Express Logistics India Pvt Ltd
+NO,poonam@cargosol.com,poonam shah,CARGOSOL LOGISTICS LIMITED
+NO,support@ccshah.com,CC SHAH,C C SHAH & SONS
+NO,ruchira.basnayake@cfglobal.co,Ruchira Ruwanmal Basnayake,CF Global Logistics Private Limited
+NO,AJITHKUMAR.P@CFGLOBAL.CO,Ajithkumar Peiris,CF Global Logistics Private Limited
+NO,anand@clearship.com,Anand Dikshit,CLEARSHIP FORWARDERS PRIVATE LIMITED
+NO,NETWORKSALES@CLEARSHIP.COM,Anand Dikshit,CLEARSHIP FORWARDERS PRIVATE LIMITED
+NO,manish.karkun@collicare.in,MANISH KARKUN,COLLICARE LOGISTICS INDIA PVT LTD
+NO,JAICHAND.PRAJAPAT@COLLICARE.IN,Jai Chand Prajapat,COLLICARE LOGISTICS INDIA PVT LTD
+NO,RITIKA.ARYA@COLLICARE.IN,Ritika Arya,COLLICARE LOGISTICS INDIA PVT LTD
+NO,vikas@dartswift.co.in,VIKAS JETHE,DARTSWIFT LOGISTICS INDIA PRIVATE LIMITED
+NO,kumar@eagabriz.com,Ajay Tiwari,EAGABRIZ SHIPPING PRIVATE LIMITED
+NO,accounts@easyways.co.in,Sandhiya,EASYWAYS FREIGHTS FORWARDERS PRIVATE LIMITED.
+NO,saivignesh@econshipping.com,Sai Vignesh,Econship Tech Pvt Ltd
+NO,rajiv@exlww.com,Rajiv Malik,EXCEL WORLDWIDE PRIVATE LIMITED
+NO,aiyappa@g10logistics.com,Management,G10 LOGISTICS PRIVATE LIMITED
+NO,sales@gblgroup.in,SANTOSH SATPUTE,GLOBALBRIDGE LOGISTICS PRIVATE LIMITED
+NO,sushant@gblgroup.in,SUSHANT CHOUGHULE,GLOBALBRIDGE LOGISTICS PRIVATE LIMITED
+NO,poonam@gblgroup.in,Poonam Bariya,GLOBALBRIDGE LOGISTICS PRIVATE LIMITED
+NO,ashok@globalvisionindia.com,ASHOK KUMAR SAMPATH,Global Vision Shipping Agencies India Pvt Ltd
+NO,KARTHIK@GLOBALVISIONINDIA.COM,Mr Karthikeyan,Global Vision Shipping Agencies India Pvt Ltd
+NO,KARTHIGESAN@GLOBALVISIONINDIA.COM,Mr Karthikesan,Global Vision Shipping Agencies India Pvt Ltd
+NO,lalit@globewyn-logisys.com,Lalit Kumar KASHYAP,Globewyn Logisys Pvt Ltd
+NO,ADITYA@GLOBEWYN-LOGISYS.COM,Mr.Aditya,Globewyn Logisys Pvt Ltd
+NO,DOCS@GLOBEWYN-LOGISYS.COM,Mr.KAPIL,Globewyn Logisys Pvt Ltd
+NO,tushar@gloseaircargo.com,Tushar Kumar,GLO SEAIR CARGO PRIVATE LIMITED
+NO,Vkpandey@hindclearing.com,Management,HIND CLEARING AND FORWARDING SERVICES PRIVATE LIMITED
+NO,Nandini.Mukherjee@dpworld.com,Nandini Mukherjee,HINDUSTAN INFRALOG PRIVATE LIMITED
+NO,dhairya.tanna@dpworld.com,Dhairya Tanna,HINDUSTAN INFRALOG PRIVATE LIMITED
+NO,girish@iconsol.in,Girish Nair,Iconsol Shipping (I) Private Limited
+NO,jay@inelogistics.in,Jaiseelan,INE LOGISTICS PVT LTD
+NO,sales@iwgexpress.com,Vijay Srivastava,INNOWAVE GLOBAL EXPRESS LLP
+NO,Kukreti.atul@instatransglobal.com,Atul Kukreti,Instatrans Global Logistics Pvt Ltd
+NO,INFO.IN@INSTATRANSGLOBAL.COM,Sagar Binjola,Instatrans Global Logistics Pvt Ltd
+NO,mehul.modh@iss-gf.com,Mehul Modh,ISSGF India Pvt. Ltd.
+NO,vinu@kangaroologistics.co.in,Vinu Pillai,KANGAROO LOGISTICS PRIVATE LIMITED
+NO,project@lee-pro.com,ABHISHEK DHAMEJANI,LEEWARD PROJECT LOGISTICS LLP
+NO,sales@leisterlogistics.com,MOHAMMAD AKHTAR,LEISTER LOGISTICS LLP
+NO,subhash@lodestargroup.net,Management,LODESTAR CONTAINER LINES PVT LTD
+NO,info@logidriveindia.com,Pankaj Singh,LOGI DRIVE INDIA LLP
+NO,PRICING@LOGIDRIVEINDIA.COM,KAMAL KANT TIKANIA,LOGI DRIVE INDIA LLP
+NO,PANKAJ@LOGIDRIVEINDIA.COM,Pankaj Burdak,LOGI DRIVE INDIA LLP
+NO,Vijay.kumar@lkcontainers.com,VIJAY SINGH RANSWAL,LORD KRISHNA CONTAINER LEASING PRIVATE LIMITED
+NO,ketan@lyftlogistics.co.in,Ketan Barvaliya,Lyft Logistics LLP
+NO,network@lyftlogistics.co.in,Vibhuti Gujar,Lyft Logistics LLP
+NO,harpal@mahalogix.com,Harpal Singh Bedi,Mahalogix International
+NO,Vinal@mosaicglobal.in,Vinal Aneja,Mosaic Global Pvt. Ltd
+NO,shankar@newidealogistics.com,R SHANKAR,New Idea Logistics Private Limited
+NO,pramod@newlanelogistics.com,Pranav Dhamdhere,Newlane Logistics Private Limited
+NO,pranav@newlanelogistics.com,Pranav Dhamdhere,Newlane Logistics Private Limited
+NO,manish@newlanelogistics.com,Manish Khamkar,Newlane Logistics Private Limited
+NO,maiyappan@nrkfreight.com,N.MEYYAPPAN,NRK FREIGHT FORWARDER PRIVATE LIMITED
+NO,ACCOUNTS@NRKFREIGHT.COM,Mrs. Vallimayil M,NRK FREIGHT FORWARDER PRIVATE LIMITED
+NO,SALES@NRKFREIGHT.COM,Shriraam M,NRK FREIGHT FORWARDER PRIVATE LIMITED
+NO,gunjan.sharma@ntcgroup.in,Gunjan,NTC Logistics India Private Limited
+NO,sreejith@onesourcewl.com,Sreejith Prabhakaran,ONESOURCE WORLDWIDE LOGISTICS PRIVATE LIMITED
+NO,info@palanhaarlogistics.com,VASU,PALANHAAR WORLDWIDE LOGISTICS PVT LTD
+NO,anmol.kalla@pnvlogistics.in,ANMOL KALLA,PNV LOGISTICS LLP
+NO,info@pnvlogistics.in,Anshul vyas,PNV LOGISTICS LLP
+NO,rahul@rdprlogistics.com,RAHUL KUMAR,RDPR LOGISTICS PVT LTD
+NO,DALIP@RDPRLOGISTICS.COM,Dalip Soni,RDPR LOGISTICS PVT LTD
+NO,JEAN.FERNANDES@REGIONALLOG.COM,Jean Fernandez,REGIONAL LOGISTICS PRIVATE LIMITED
+NO,TANMAY.DURVE@REGIONALLOG.COM,Tanmay Durve,REGIONAL LOGISTICS PRIVATE LIMITED
+NO,mukta.shewale@regionallog.com,Mukta Shewale,REGIONAL LOGISTICS PRIVATE LIMITED
+NO,mukul@royalfreightlogistics.in,Mukul Harit,ROYAL FREIGHT LOGISTICS PVT. LTD.
+NO,<hr@sapgloballogistics.com>,SANIYA SANJAY RANE,SAP Global Logistics
+NO,sai@triworld.in,Saivinodth Jayakumar,Triworld Global Forwarding Pvt Ltd
+NO,info@uniqueway.co.in,Management,UNIQUEWAY LOGISTIC AND SUPPLY CHAIN PRIVATE LIMITED
+NO,snu@utlgroup.in,SHWETA UGALE,UNI TRAANS LOG PVT LTD
+NO,pk@venuslogistix.in,Prakash,Venus Sea air Logistix Pvt Ltd
+NO,pverma@vrlogistic.co.in,PARDEEP KUMAR VERMA,V.R. Logistics Limited
+NO,overseas@vrlogistic.com,Mr.Rajnish Mishra (Nhava Sheva,V.R. Logistics Limited
+NO,psales@vrlogistic.com,Ms. Priyanka Tiwari (Ludhiana),V.R. Logistics Limited
+NO,nominations@vrlogistic.com,Mr. Amit Yadav ( Ludhiana),V.R. Logistics Limited
+NO,shruthi@wheelsshipping.com,Venkat Ramana,WHEELS SHIPPING INDIA PVT LTD
+NO,ganesh@wingofreight.com,GANESH G,WINGO FREIGHT AND LOGISTICS PVT LTD
+NO,joji.mathew@wisdomglobal.co.in,Joji Mathew,Wisdom Global Freight Solutions Pvt Ltd
+NO,alok.sharma@wwlogisticians.com,Alok Sharma,WW Logisticians Private Limited
+NO,john@yahwehglobal.in,Mr. John Peter,YAHWEH GLOBAL LOGISTICS PVT LTD
+NO,hadlina@yahwehglobal.in,Hadlina Martin,YAHWEH GLOBAL LOGISTICS PVT LTD
+NO,sujit@elenvio.in,Elenvio Solutions Pvt Ltd,ELENVIO SOLUTIONS PRIVATE LIMITED
+NO,SUJIT@ELENVIOGROUP.COM,Sujit,ELENVIO SOLUTIONS PRIVATE LIMITED
+NO,vasanth@msncl.com,Management,MSN CONTAINER LINE PVT LTD
+NO,rshrouti@15knots.in,Management,15 Knots Shipping And Logistics Private Limited
+NO,mohamed.amzad@5way.org,MOHAMED AMZAD,5WAY LOGISTICS SOLUTIONS INDIA PVT LTD
+NO,expgrp@acrossglobe.co.in,MANISH VASWANI,ACROSS GLOBE LOGISTICS LLP
+NO,SAGAR@ACROSSGLOBE.CO.IN,MR.SAGAR TIWARI,ACROSS GLOBE LOGISTICS LLP
+NO,MANISH@ACROSSGLOBE.CO.IN,MR. MANISH VASWANI,ACROSS GLOBE LOGISTICS LLP
+NO,jamila.m@aeromarlogistics.com,Jamila,AEROMAR LOGISTICS INDIA PRIVATE LIMITED
+NO,joshivaibhav2608@gmail.com,VAIBHAV JOSHI,ALOR GLOBAL LOGISTICS PRIVATE LIMITED
+NO,cs.del@alorglobal.com,Sagar Upadhyay,ALOR GLOBAL LOGISTICS PRIVATE LIMITED
+NO,vasanthk@anugrahalogistics.com,Management,ANUGRAHA LOGISTICS PVT LTD
+NO,himanshubansal@arenaworldwide.com,Himanshu Bansal,ARENA WORLDWIDE LOGISTICS PVT LTD
+NO,girish@artimaxlogistics.com,GIRISH SUBHASH MADHAV,ARTIMAX LOGISTICS LLP
+NO,dhirendra@artimaxlogistics.com,Mr. Dhirendra Singh,ARTIMAX LOGISTICS LLP
+NO,arun@aws-india.com,Arun KUMAR Chauhan,ASIAN WORLDWIDE SERVICES (INDIA) PVT LTD
+NO,jullyzhu.nb@eumexgroup.com,Jully,Eumex Line Ningbo Limited
+NO,camillelu.nb@eumexgroup.com,Camille,Eumex Line Ningbo Limited
+NO,Jim.mao@woland-logistics.com,JIM MAO,WOLAND LOGISTICS CO.
+NO,Nick.yang@woland-logistics.com,Management,WOLAND LOGISTICS CO.
+NO,jackywang@seamarco.com.cn,Jacky wang,Ningbo Seamarco International Logistics Co.
+NO,fannyzhu@seamarco.com.cn,Fanny,Ningbo Seamarco International Logistics Co.
+NO,zoeshen@seamarco.com.cn,Zoe,Ningbo Seamarco International Logistics Co.
+NO,mary.su@zj-handsome.com,MARY SU,ZHEJIANG GLOBAL HANDSOME SUPPLY CHAIN MANAGEMENT CO.
+NO,hza@nb-hj.com,Howard,HUANJI SUPPLY CHAIN MANAGEMENT CO.
+NO,JESSIE@NB-HJ.COM,Jessie,HUANJI SUPPLY CHAIN MANAGEMENT CO.
+NO,SH@NB-HJ.COM,Mrs. Amanda Zhu,HUANJI SUPPLY CHAIN MANAGEMENT CO.
+NO,EILEEN@NB-HJ.COM,Vivian,HUANJI SUPPLY CHAIN MANAGEMENT CO.
+NO,LFR@NB-HJ.COM,Ms Jolie Lee,HUANJI SUPPLY CHAIN MANAGEMENT CO.
+NO,ZC@NB-HJ.COM,Rachel,HUANJI SUPPLY CHAIN MANAGEMENT CO.
+NO,jacky.cheng@infinity-logistics.com,jacky,ZHEJIANG INFINITY LOGISTICS CO.
+NO,steven.wang@infinity-logistics.com,steven,ZHEJIANG INFINITY LOGISTICS CO.
+NO,chris.wu@nbgetwin.net,Chris Wu,Ningbo Get-Win International Logistics Co.
+NO,winner@shhky.com,Management,NINGBO LONGWAY LOGISTICS CO.
+NO,<Andy.zhan@nbtongzhou.com>,Management,NINGBO TONGZHOU INTERNATIONAL LOGISTICS CO.
+NO,<wangan1108@waynb.com>,Management,NINGBO WANYANG SUPPLY CHAIN MANAGEMENT CO.
+NO,bruce@thxline.com,BruceZhuGeneral Manager,NINGBO XIELONG INTERNATIONAL LOGISTICS CO.
+NO,overseas@mks.global,Rubi Morales,MKS SMART LOG
+NO,Ilse.rosales@mks.global,Ilse Rosales,MKS SMART LOG
+NO,sarai@alphaexpress.com.mx,Sarai Garza,ALPHA FREIGHT FORWARDER
+NO,rosario.segovia@olinlog.com,Rose Segovia,OLIN LOGISTICS SA DE CV
+NO,carlos.siordia@importcargo.com.mx,Carlos Siordia,IMPORTCARGO MEXICO SA DE CV
+NO,Emma.alvizo@importcargo.com.mx,Emma Alvizo,IMPORTCARGO MEXICO SA DE CV
+NO,david.contreras@importcargo.com.mx,David Contreras,IMPORTCARGO MEXICO SA DE CV
+NO,judith.robledo@importcargo.com.mx,Management,IMPORTCARGO MEXICO SA DE CV
+NO,lvillanueva@mlti.com.mx,Multitraslados Internacionales,Multitraslados Internacionales
+NO,manuel.navarrete@rangel.com,Manuel Navarrete,Lograngel Solutions Mexico S.A.
+NO,a.lopez@realst.mx,Alfredo Lopez,Real Shipping And Trade SA de CV
+NO,BDMX@REALST.MX,Laura Escarcega,Real Shipping And Trade SA de CV
+NO,farina@vbg-int.com,Iuliia Farina,Aeropartes Integrales S.A. de C.V.
+NO,mortizj@gomsa.com,MIGUEL ORTIZ,GRUPO OPERADOR MULTIMODAL
+NO,pricing@zach.mx,Zach Pricing Team,ZACH LOGISTICS SA DE CV
+NO,rlee@dslmex.com,Ruben Lee,SFS LOGISTICS
+NO,ECORTES@DSLMEX.COM,Elizabeeth Cortes,SFS LOGISTICS
+NO,MAYERLING@DSLMEX.COM,Mayerling Payan,SFS LOGISTICS
+NO,ana@diversitycargo.com,Ana Anton,DIVERSITY CARGO SA DE CV
+NO,jctrans@logisticaigc.com,Pablo Becerril,Logistica IGC
+NO,f.zagal@cargoservicesgroup.com.mx,MARIA PEREZ BELLIDO,Cargo services Group (Mexico)
+NO,L.DECAIRES@CARGOSERVICESGROUP.COM,Lina de Caires,Cargo services Group (Mexico)
+NO,A.MARTIN@CARGOSERVICESGROUP.COM.MX,Alfredo Martin,Cargo services Group (Mexico)
+NO,cesar@shipdgl.com,Cesar Vazquez,DIVERSIFIED GLOBAL LOGISTICS S DE RL DE CV
+NO,luisfgp@oku-mex.com,LUIS GUZMAN,IGIKAI ENTERPRISES S DE RL DE CV
+NO,kcleto@oku-mex.com,Kcleto,IGIKAI ENTERPRISES S DE RL DE CV
+NO,sminke@simplyorange.com.mx,Sjef Minke,Simply Orange SA De CV
+NO,hector.lopez@hcforwarding.com.mx,Hector Lopez,HC FORWARDING SA DE CV
+NO,corina.diaz@hcforwarding.com.mx,CORINA DIAZ,HC FORWARDING SA DE CV
+NO,cs.logistica@hcforwarding.com.mx,ZAIRA ALVAREZ,HC FORWARDING SA DE CV
+NO,direccion@smpmexico.com,Javier Porfirio Gastelum Perez,Naviera Smp Sa De C.V.
+NO,agentdevel@powerlogistics.mx,Diego Castaneda,Power Logistics Cargo Group
+NO,quotes@visafs.mx,Management,Visa Freight Solutions SA De CV
+NO,OPS@VISAFS.MX,Carlos Hernandez,Visa Freight Solutions SA De CV
+NO,RODRIGO.DIAZ@VISAFS.MX,Rodrigo Diaz,Visa Freight Solutions SA De CV
+NO,MARIA.REYNA@VISAFS.MX,Maria Reyna,Visa Freight Solutions SA De CV
+NO,ELIZABETH.FERNANDEZ@VISAFS.MX,Elizabeth Fernandez,Visa Freight Solutions SA De CV
+NO,pricing@weport.global,David Salgado,WEPORT SA DE CV
+NO,carlos.torres@agunsa.com.mx,Carlos Torres,AGUNSA L&D S.A. DE C.V
+NO,ivan.lozano@av2logistics.com,Ivan Lozano,AV2 LOGISTICS SA DE CV
+NO,pricing@av2logistics.com,ILLYA HERNANDEZ,AV2 LOGISTICS SA DE CV
+NO,orozco.f@gtofw.com.mx,Francisco Orozco,GTO FORWARDING S. DE R.L. DE C.V.
+NO,eloyventura@acapulcoagencies.com,ELOY VENTURA GUZMAN,MX AGENCIA PORTUARIA
+NO,AV@MXAGENCIAPORTUARIA.COM,ABRAHAM VENTURA,MX AGENCIA PORTUARIA
+NO,SALES@MXAGENCIAPORTUARIA.COM,LEONEL VENTURA,MX AGENCIA PORTUARIA
+NO,david.delolmo@seacargo.com,David,SEA CARGO LOGISTICS
+NO,administracion@mxcli.com.mx,SOLUCIONES AL COMERCIO EXTERIOR CLI SA DE CV,SOLUCIONES AL COMERCIO EXTERIOR CLI SA DE CV
+NO,LOGISTICA@MXCLI.COM.MX,Martha Guadalupe Arzola Galván,SOLUCIONES AL COMERCIO EXTERIOR CLI SA DE CV
+NO,m.gutierrez@amtruck.com.mx,Marcos Gutierrez R.,AM TRUCKLOGIX INTERNATIONAL CARGO DE MEXICO
+NO,sales@ctpglobal.mx,Maria Fernanda Rodriguez,CTP GLOBAL FORWARDING SA DE CV
+NO,Operations@ctpglobal.mx,Management,CTP GLOBAL FORWARDING SA DE CV
+NO,mpimienta@ctpglobal.mx,Maritza Pimienta,CTP GLOBAL FORWARDING SA DE CV
+NO,info@americargo.net,Jorge Gonzalez,DRV FORWARDING SA DE CV
+NO,elizabeth@expresslinecorp.com.mx,Elizabeth,EXPRESS FORWARDING COMPANY
+NO,sgutierrez@guvalogisticsolution.com.mx,SAMUEL GUTIERREZ ROSALES,GUVA LOGISTIC SOLUTION
+NO,mfajardo@guvalogisticsolution.com.mx,Ms. Mayra K. Fajardo Vargas,GUVA LOGISTIC SOLUTION
+NO,pricing4@guvalogisticsolution.com.mx,Ms. Diana Del Rosario Arteaga,GUVA LOGISTIC SOLUTION
+NO,pricing@guvalogisticsolution.com.mx,Guadalupe Lucas Velazquez,GUVA LOGISTIC SOLUTION
+NO,avesselinova@ikigaigroup.com.mx,ANETA VESSELINOVA,IKIGAI FREIGHT MANAGEMENT SOLUTIONS
+NO,eva@ikigaigroup.com.mx,Eva,IKIGAI FREIGHT MANAGEMENT SOLUTIONS
+NO,sinmelog@sinmelog.com.mx,SINME LOGISTICS SOLUCION,SINME LOGISTICS SOLUCION SA DE CV
+NO,pricing@slamerica.com.mx,SLA,Sistemas Logisticos de America S.A. de C.V.
+NO,irving.vera@sshippingcompany.com,Irving Vera Mondragon,SMART SHIPPING COMPANY SA DE CV
+NO,dhernandez@sceforwarding.com,Diego Alejandro Hernandez Reyes,SOLUCIONES EN COMERCIO EXTERIOR SA DE CV
+NO,quotes@sceforwarding.com,Daniel Cruz,SOLUCIONES EN COMERCIO EXTERIOR SA DE CV
+NO,generalpricing@wsf.com.mx,Max Cardenas,World Shipping Forward
+NO,emojarro@navicargologistics.com,Edgard Mojarro,ADVANCE LOGISTICS SERVICES OPEN SEA S DE RL DE CV
+NO,network.alow@alow.com.mx,ALOW FORWARDING MEXICO,ALOW FORWARDING MEXICO
+NO,jibanez@bsmmexico.com.mx,Joana Ibanez,BSM FORWARDING
+NO,alejandro@capuracargo.com,ALEJANDRO MARTINEZ,CAPURA CARGO
+NO,mariajose@continentecargo.com,Maria Jose Gonzalez,CONTINENTE FORWARDING
+NO,partners@continentecargo.com,Partners Team,CONTINENTE FORWARDING
+NO,alejandro.echeverria@globalmotion.com.mx,ALEJANDRO ECHEVERRIA,GLOBAL MOTION INTERNACIONAL SA DE CV
+NO,jpcabeza@grecargo.com.mx,Jose Pablo Cabeza Couttolenc,GRECARGO
+NO,guillena@grecargo.com.mx,Arely,GRECARGO
+NO,account.mex@impexgls.com,David (D.Y)Song,IMPEX GLS S. DE R.L DE C.V
+NO,mex@impexgls.com,Angela Kim,IMPEX GLS S. DE R.L DE C.V
+NO,juan.delasse@kalalogistics.mx,Juan Ramon De Lasse,Kala Forwarding
+NO,Trimundo@mundo-int.com,Alejandro Garcia Abreu,TRIMUNDO LOGISTICS
+NO,sales@ufreight.mx,Philipp Hees,Unity Freight SA de CV
+NO,pricing1@interdabs.com,LESLY ROMERO ORTIZ,DABS MOVILITY SOLUTIONS
+NO,htrejo@eaglexpcargo.com,EAGLE EXPRESS CARGO, S.A. DE C.V.
+NO,eduardoe@egcargo.com.mx,Eduardo Escobar,EG CARGO PROFESSIONAL SERVICES
+NO,irmar@eximlogistic.com.mx,Irma Reyes,EXPORT & IMPORT INTERNATIONAL LOGISTIC
+NO,dmartinez@giasc.com.mx,Dave Martinez,Grupo Inter Aduanero
+NO,grl-director@interdabs.com,Management,J&D INTERNATIONAL LOGISTICS
+NO,jordi.guerra@jcargo.com.mx,Jordi Guerra,JOINT & CARGO INTERNATIONAL
+NO,pricing@logisticabackup.mx,Management,LOGISTICA BACKUP
+NO,overseas@logisman.mx,Felix Lopez,LOGISTICS MANAGEMENT MOVIENDO A MEXICO
+NO,acalero@logisman.mx,Alejandro Calero,LOGISTICS MANAGEMENT MOVIENDO A MEXICO
+NO,pricing1@logisman.mx,Miguel Sandoval,LOGISTICS MANAGEMENT MOVIENDO A MEXICO
+NO,gerencia.mx@maplogistics.net,IVETTE ORTEGA,MAP SYSTEMS LOGISTICS S.A. DE C.V.
+NO,pricing1.mx@maplogistics.net,Daniela Plata,MAP SYSTEMS LOGISTICS S.A. DE C.V.
+NO,stevenjin@orbilogisticsjl.com,Steven Jin Ze,Orbi logistics JL SA DE CV
+NO,anavarro@stias.net,Jose Antonio Navarro,SERVICIOS DE TRANSPORTE INTERNACIONAL A&S
+NO,cristobal.delavega@smartports.app,Cristobal De La Vega,SMARTPORTS & LOGISTICS WORLDWIDE
+NO,rodrigo.mourey@smartports.app,Rodrigo Mourey,SMARTPORTS & LOGISTICS WORLDWIDE
+NO,carlos.delaconcha@smartports.app,Carlos de la Concha Tapia,SMARTPORTS & LOGISTICS WORLDWIDE
+NO,carmen@titolc.com,Management,TLG CONNECT
+NO,antonio@vimantlogistics.com,JOSE ANTONIO JIMENEZ,Vimant Global Logistics S.A. de C.V.
+NO,sales@yitshipping.com,Management,YING INTERNATIONAL TRANSPORTATION MEXICO
+NO,p.gonzalez@finalilogistics.com,Finali Logistics,FINALI LOGISTICA GLOBAL
+NO,aramirez@ftsolutionsmex.com,Alejandro,F&T SOLUTIONS MEXICO
+NO,noemi.arteaga@merakilogistics.net,MERAKI FORWARD LOGISTICS,MERAKI FORWARD LOGISTICS
+NO,servicios@mylescargo.com.mx,Lesly Johanna Leon P,MYLES CARGO LOGISTICS
+NO,miguel.herrera@mylescargo.com.mx,Miguel Herrera,MYLES CARGO LOGISTICS
+NO,amedina@skywisecargo.com,Abdiel Medina Aguilar,SKYWISE CARGO
