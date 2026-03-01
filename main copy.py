@@ -22,9 +22,9 @@ LOG_FILE = "send_log.txt"
 
 EMAIL_DELAY = 5          # seconds between emails
 DAILY_LIMIT = 800        # change if needed
-START_FROM =  0          # start from beginning
+START_FROM =  972        # start from email #71 (index begins at 0)
 
-SUBJECT = "SEA / FCL / RATE REQUEST CHINA NINGBO TO CHITTAGONG, BANGLADESH."
+SUBJECT = "Cooperation Opportunity for Chittagong & Dhaka Shipments - S.R.Shipping Agency Bangladesh!✨"
 
 # =============================
 # LOAD HTML TEMPLATE
@@ -36,7 +36,7 @@ with open("email_template.html", "r", encoding="utf-8") as f:
 # LOG FUNCTION
 # =============================
 def log(message):
-    with open(LOG_FILE, "a", encoding="utf-8") as f:
+    with open(LOG_FILE, "a") as f:
         f.write(f"{datetime.now()} - {message}\n")
 
 # =============================
@@ -67,7 +67,7 @@ def get_today_sent_count():
     today = date.today().isoformat()
     count = 0
 
-    with open(LOG_FILE, encoding="utf-8") as f:
+    with open(LOG_FILE) as f:
         for line in f:
             if today in line and "SENT" in line:
                 count += 1
@@ -81,82 +81,45 @@ print("🚀 Email automation started")
 
 sent_today = get_today_sent_count()
 
-# Read CSV with explicit fieldnames to avoid issues
 with open(CSV_FILE, newline="", encoding="utf-8") as f:
-    # Read all lines to check format
-    lines = f.readlines()
-    print(f"CSV has {len(lines)} lines")
-    
-    # Reset file pointer
-    f.seek(0)
-    
-    # Try reading with DictReader
-    try:
-        reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames
-        print(f"Detected fieldnames: {fieldnames}")
-        
-        if fieldnames is None:
-            print("⚠ No headers found, using default headers")
-            fieldnames = ["sent", "email", "name", "company"]
-            f.seek(0)
-            reader = csv.DictReader(f, fieldnames=fieldnames)
-        
-        rows = list(reader)
-        print(f"Successfully read {len(rows)} rows")
-        
-    except Exception as e:
-        print(f"❌ Error reading CSV: {e}")
-        print("Creating new CSV structure...")
-        fieldnames = ["sent", "email", "name", "company"]
-        rows = []
+    reader = csv.DictReader(f)
+    fieldnames = reader.fieldnames
+    rows = list(reader)
 
 # =============================
 # MAIN LOOP
 # =============================
 for i, row in enumerate(rows):
+
     # Skip already processed rows
     if i < START_FROM:
         continue
 
-    if row.get("sent") == "NO":
+    if row["sent"] == "NO":
+
         if sent_today >= DAILY_LIMIT:
             print("⚠ Daily sending limit reached")
             break
 
         try:
-            email = row.get("email", "").strip()
-            name = row.get("name", "").strip()
-            company = row.get("company", "").strip()
-            
-            if not email:
-                print(f"⚠ Skipping row {i}: No email address")
-                continue
-            
-            print(f"Attempting to send to: {email}")
-            send_email(email, name, company)
+            send_email(row["email"], row["name"], row["company"])
 
             row["sent"] = "YES"
             sent_today += 1
 
-            log(f"SENT -> {email}")
-            print(f"✅ Sent to {email}")
+            log(f"SENT -> {row['email']}")
+            print(f"✅ Sent to {row['email']}")
 
-            # ===== SAVE IMMEDIATELY =====
-            try:
-                with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
-                    writer = csv.DictWriter(f, fieldnames=fieldnames)
-                    writer.writeheader()
-                    writer.writerows(rows)
-                print(f"✓ Saved progress to CSV")
-            except Exception as save_error:
-                log(f"ERROR SAVING CSV -> {save_error}")
-                print(f"❌ Error saving CSV: {save_error}")
+            # ===== SAVE IMMEDIATELY (CRASH SAFE) =====
+            with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                writer.writeheader()
+                writer.writerows(rows)
 
             time.sleep(EMAIL_DELAY)
 
         except Exception as e:
-            log(f"ERROR -> {row.get('email', 'unknown')} -> {e}")
-            print(f"❌ Error sending to {row.get('email', 'unknown')} -> {e}")
+            log(f"ERROR -> {row['email']} -> {e}")
+            print(f"❌ Error sending to {row['email']} -> {e}")
 
 print("✅ Job finished")

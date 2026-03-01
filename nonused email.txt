@@ -1,0 +1,40 @@
+NO,prasanta.halder@allcargologistics.com,Prasanta Halder,Allcargo Logistics Limited
+NO,deepak.menon@kerrylogistics.com,Management,KERRY LOGISTICS BAHRAIN WLL
+YES,jh.lee@ibf-fr.com,Management,Sarl IBFL LOGISTICS ALGERIA
+YES,sophie@shamy.eu,Management,Shamy European 2020
+YES,a.lemmouchi.sk@ipolcompany.com,Management,IPOL Logistics Algeria
+YES,Nadia.Mezouar@unionshipping-dz.com,Management,Union Shipping Company Sarl
+NO,esteban.ballesteros@mcshipbrokersllc.com,Esteban Ballesteros,MC SHIPBROKERS SAS
+NO,alfredo.varon@noatumlogistics.com,Alfredo Varon,NOATUM LOGISTICS COLOMBIA INC S.A.S.
+NO,COMERCIAL@TRASLADOSINTERNACIONALES.COM,Wendie Vergara,TRASLADOS INTERNACIONALES CARGA S.A.S
+
+
+bdseaking@gmail.com,SEA KING MARINE SERVICES LTD
+info@skmsbd.com,SEA KING MARINE SERVICES LTD
+agency@skmsbd.com,SEA KING MARINE SERVICES LTD
+info@eoslbd.com,Eastern Overseas Shipping Lines Ltd.
+Shafi@eoslbd.com,Eastern Overseas Shipping Lines Ltd.
+akmshafiulcf@gmail.com,Eastern Overseas Shipping Lines Ltd.
+communications@mttshipping.com.my,MTT Shipping
+archana.suvarna@giga-shipping.com,Giga Shipping
+steve@giga-shipping.com,Giga Shipping
+info@giga-shipping.com,Giga Shipping
+mtcamd@gmail.com,MTC Logistics
+info@m-gl.com,Matrix Global Logistics
+info@matrixlogistic.com,Matrix Global Logistics
+business_enquiries@bintuluport.com.my, Bintulu Port Holdings Berhad
+misclngjapan@miscbhd.com,MISC Logistics
+aetcc@aet-tankers.com,AET Tankers Pte Ltd
+mma@alam.edu.my,Malaysian Maritime Academy Sdn. Bhd.
+ecgcc@miscbhd.com,MISC Logistics
+info@excelaircargo.com,Excel Air Cargo Malaysia
+info@malaysiarice.com,Serba Wangi Logistics
+admin@jasamerin.com.my,Jasa Merin (Malaysia) Sdn Bhd
+jmladmin@jasamerin.com.my,Jasa Merin (Malaysia) Sdn Bhd
+myitad@epcglobalsolutions.com,EPC Movers
+INFO@ONEWWL.COM,One World Logistics Network (OWL)
+info@lfglobal-logistics.com,LF Global Logistics (M) Sdn Bhd
+teresa@lfglobal-logistics.com,LF Global Logistics (M) Sdn Bhd
+enquiry@tasgroup.com.my,TAS Logistics
+CS_SIN@AIRPAK-EXPRESS.COM,Airpak Express Malaysia
+contact@tasco.com.my,Yusen Logistics Malaysia
