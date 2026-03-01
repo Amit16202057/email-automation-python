@@ -21,10 +21,10 @@ CSV_FILE = "emails.csv"
 LOG_FILE = "send_log.txt"
 
 EMAIL_DELAY = 5          # seconds between emails
-DAILY_LIMIT = 800        # change if needed
+DAILY_LIMIT = 1500        # change if needed
 START_FROM =  0          # start from beginning
 
-SUBJECT = "SEA / FCL / RATE REQUEST CHINA NINGBO TO CHITTAGONG, BANGLADESH."
+SUBJECT = "Cooperation Opportunity for Chittagong & Dhaka Shipments - S.R.Shipping Agency Bangladesh!✨"
 
 # =============================
 # LOAD HTML TEMPLATE
@@ -75,6 +75,18 @@ def get_today_sent_count():
     return count
 
 # =============================
+# CLEAN ROW FUNCTION
+# =============================
+def clean_row(row, fieldnames):
+    """Remove any None keys and ensure only valid fieldnames"""
+    cleaned = {}
+    for field in fieldnames:
+        if field is not None:  # Skip None fieldnames
+            value = row.get(field, "")
+            cleaned[field] = value if value is not None else ""
+    return cleaned
+
+# =============================
 # START SCRIPT
 # =============================
 print("🚀 Email automation started")
@@ -92,17 +104,45 @@ with open(CSV_FILE, newline="", encoding="utf-8") as f:
     
     # Try reading with DictReader
     try:
-        reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames
-        print(f"Detected fieldnames: {fieldnames}")
+        # First, detect if there are any BOM characters or weird formatting
+        first_line = f.readline().strip()
+        f.seek(0)
         
-        if fieldnames is None:
-            print("⚠ No headers found, using default headers")
+        if first_line and first_line.startswith('\ufeff'):
+            print("⚠ BOM detected in CSV, skipping...")
+            # Skip BOM character
+            f.read(1)
+        
+        reader = csv.DictReader(f)
+        raw_fieldnames = reader.fieldnames
+        print(f"Detected raw fieldnames: {raw_fieldnames}")
+        
+        # Clean fieldnames - remove None and strip whitespace
+        fieldnames = []
+        for fn in raw_fieldnames:
+            if fn is not None and fn.strip():
+                fieldnames.append(fn.strip())
+        
+        if not fieldnames:
+            print("⚠ No valid headers found, using default headers")
             fieldnames = ["sent", "email", "name", "company"]
             f.seek(0)
+            # Skip first line if it exists
+            f.readline()
             reader = csv.DictReader(f, fieldnames=fieldnames)
+        else:
+            # Reset and read again with cleaned fieldnames
+            f.seek(0)
+            reader = csv.DictReader(f)
         
-        rows = list(reader)
+        print(f"Using fieldnames: {fieldnames}")
+        
+        # Read all rows and clean them
+        rows = []
+        for row in reader:
+            cleaned_row = clean_row(row, fieldnames)
+            rows.append(cleaned_row)
+            
         print(f"Successfully read {len(rows)} rows")
         
     except Exception as e:
@@ -119,15 +159,20 @@ for i, row in enumerate(rows):
     if i < START_FROM:
         continue
 
-    if row.get("sent") == "NO":
+    # Safely get sent status
+    sent_status = row.get("sent", "NO")
+    if sent_status is None:
+        sent_status = "NO"
+    
+    if sent_status == "NO":
         if sent_today >= DAILY_LIMIT:
             print("⚠ Daily sending limit reached")
             break
 
         try:
-            email = row.get("email", "").strip()
-            name = row.get("name", "").strip()
-            company = row.get("company", "").strip()
+            email = row.get("email", "").strip() if row.get("email") else ""
+            name = row.get("name", "").strip() if row.get("name") else "management"
+            company = row.get("company", "").strip() if row.get("company") else "(your company)"
             
             if not email:
                 print(f"⚠ Skipping row {i}: No email address")
@@ -147,16 +192,29 @@ for i, row in enumerate(rows):
                 with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
                     writer = csv.DictWriter(f, fieldnames=fieldnames)
                     writer.writeheader()
-                    writer.writerows(rows)
+                    
+                    # Clean all rows before writing
+                    clean_rows = []
+                    for r in rows:
+                        clean_r = clean_row(r, fieldnames)
+                        clean_rows.append(clean_r)
+                    
+                    writer.writerows(clean_rows)
                 print(f"✓ Saved progress to CSV")
             except Exception as save_error:
                 log(f"ERROR SAVING CSV -> {save_error}")
                 print(f"❌ Error saving CSV: {save_error}")
+                # Print more details about the error
+                import traceback
+                traceback.print_exc()
 
             time.sleep(EMAIL_DELAY)
 
         except Exception as e:
             log(f"ERROR -> {row.get('email', 'unknown')} -> {e}")
             print(f"❌ Error sending to {row.get('email', 'unknown')} -> {e}")
+            # Print more details about the error
+            import traceback
+            traceback.print_exc()
 
 print("✅ Job finished")
